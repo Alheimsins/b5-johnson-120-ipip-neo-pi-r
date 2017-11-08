@@ -16,8 +16,6 @@ $ npm i b5-johnson-120-ipip-neo-pi-r
 ## Usage
 
 ```JavaScript
-'use strict'
-
 const { getItems, getInfo } = require('b5-johnson-120-ipip-neo-pi-r')
 
 console.log(getItems()) // returns English
