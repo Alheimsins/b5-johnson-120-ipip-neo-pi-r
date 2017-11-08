@@ -1,0 +1,54 @@
+{
+  "name": "b5-johnson-120-ipip-neo-pi-r",
+  "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items",
+  "version": "1.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "contributors": [
+    {
+      "name": "Jonas Enge",
+      "email": "jonas.enge@gmail.com",
+      "url": "https://github.com/maccyber"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.6.0"
+  },
+  "scripts": {
+    "test": "standard && nsp check && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "setup": "npm install",
+    "standard-fix": "standard --fix"
+  },
+  "keywords": [
+    "bigfive",
+    "personality",
+    "items",
+    "johnson-120-ipip-neo-pi-r"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zrrrzzt/b5-johnson-120-ipip-neo-pi-r.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zrrrzzt/b5-johnson-120-ipip-neo-pi-r/issues"
+  },
+  "homepage": "https://github.com/zrrrzzt/b5-johnson-120-ipip-neo-pi-r",
+  "devDependencies": {
+    "ava": "0.23.0",
+    "coveralls": "3.0.0",
+    "nsp": "2.8.1",
+    "nyc": "11.3.0",
+    "standard": "10.0.3"
+  },
+  "dependencies": {
+    "knuth-shuffle": "^1.0.1"
+  }
+}
