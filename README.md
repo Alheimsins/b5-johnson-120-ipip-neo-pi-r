@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/zrrrzzt/b5-johnson-120-ipip-neo-pi-r.svg?branch=master)](https://travis-ci.org/zrrrzzt/b5-johnson-120-ipip-neo-pi-r)
-[![Coverage Status](https://coveralls.io/repos/zrrrzzt/b5-johnson-120-ipip-neo-pi-r/badge.svg?branch=master&service=github)](https://coveralls.io/github/zrrrzzt/b5-johnson-120-ipip-neo-pi-r?branch=master)
+[![Build Status](https://travis-ci.org/Alheimsins/b5-johnson-120-ipip-neo-pi-r.svg?branch=master)](https://travis-ci.org/Alheimsins/b5-johnson-120-ipip-neo-pi-r)
+[![Coverage Status](https://coveralls.io/repos/Alheimsins/b5-johnson-120-ipip-neo-pi-r/badge.svg?branch=master&service=github)](https://coveralls.io/github/Alheimsins/b5-johnson-120-ipip-neo-pi-r?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/zrrrzzt/b5-johnson-120-ipip-neo-pi-r.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/Alheimsins/b5-johnson-120-ipip-neo-pi-r.svg)](https://greenkeeper.io/)
 
 # b5-johnson-120-ipip-neo-pi-r
 
