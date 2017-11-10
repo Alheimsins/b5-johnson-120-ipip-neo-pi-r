@@ -12,7 +12,7 @@ module.exports.getItems = (lang = 'en', shuffle = false) => {
     throw new Error('Inventory not found. Try another language input.')
   }
 
-  const inventory = shuffle ? knuthShuffle(questions) : questions
+  const inventory = shuffle === true ? knuthShuffle(questions) : questions
   return inventory.map((question, i) => Object.assign(question, {choices: choices[question.keyed], num: ++i}))
 }
 
