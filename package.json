@@ -17,7 +17,7 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">=8.9.0"
+    "node": ">=8.9.3"
   },
   "scripts": {
     "test": "standard && nsp check && ava",
