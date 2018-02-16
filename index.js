@@ -1,7 +1,7 @@
 const { knuthShuffle } = require('knuth-shuffle')
 const languages = require('./data/languages.json')
 
-module.exports.getItems = (lang = 'en', shuffle = false) => {
+module.exports.getItems = function (lang = 'en', shuffle = false) {
   let choices, questions
   try {
     questions = require(`./data/${lang}/questions.json`)
@@ -14,8 +14,8 @@ module.exports.getItems = (lang = 'en', shuffle = false) => {
   return inventory.map((question, i) => Object.assign(question, {num: ++i, choices: choices[question.keyed]}))
 }
 
-module.exports.getInfo = () => (
-  {
+module.exports.getInfo = function () {
+  return {
     name: `Johnson's IPIP NEO-PI-R`,
     id: 'johnson-120-ipip-neo-pi-r',
     shortId: 'b5-120',
@@ -24,4 +24,4 @@ module.exports.getInfo = () => (
     note: 'Recommended',
     languages: languages
   }
-)
+}
