@@ -17,15 +17,15 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">=8.9.3"
+    "node": ">=8.9.4"
   },
   "scripts": {
     "test": "standard && nsp check && ava",
     "test-offline": "standard && ava",
     "coverage": "nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
-    "setup": "npm install",
-    "standard-fix": "standard --fix"
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [
     "bigfive",
@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r.git"
+    "url": "git+https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r.git"
   },
   "bugs": {
     "url": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r/issues"

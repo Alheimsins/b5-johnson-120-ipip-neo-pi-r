@@ -82,11 +82,12 @@ returns an [array with questions and choices](examples/items-en.json)
 If you want to help by translating the items to other languages this is how you do it.
 
 - clone the repo
-- find a language you know in [lib/data](lib/data)
+- find a language you know in [data](data)
 - duplicate the folder and rename it to the language you will translate
 - use [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code as folder name.
 - translate the "text"-property for choices.js and questions.json
 - don't change filenames, ids or any other properties
+- add your language code to the [data/languages.json file](data/languages.json)
 - submit pull request
 - happiness :-)
 

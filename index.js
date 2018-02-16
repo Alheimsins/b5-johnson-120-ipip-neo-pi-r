@@ -1,7 +1,5 @@
 const { knuthShuffle } = require('knuth-shuffle')
-const fs = require('fs')
-const { resolve } = require('path')
-const dirsInFolder = p => fs.readdirSync(resolve(p)).filter(f => fs.statSync(p + '/' + f).isDirectory())
+const languages = require('./data/languages.json')
 
 module.exports.getItems = (lang = 'en', shuffle = false) => {
   let choices, questions
@@ -24,6 +22,6 @@ module.exports.getInfo = () => (
     time: 20,
     questions: 120,
     note: 'Recommended',
-    languages: dirsInFolder('data/')
+    languages: languages
   }
 )
