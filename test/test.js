@@ -18,8 +18,8 @@ if (devDependencies !== false) {
   Object.keys(devDependencies)
     .filter(dependency => !['nsp'].includes(dependency))
     .forEach(dependency =>
-    test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
-  )
+      test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
+    )
 }
 
 test('basic inventory tests', t => {
