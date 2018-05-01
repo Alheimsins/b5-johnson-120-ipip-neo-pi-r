@@ -43,7 +43,7 @@
   "homepage": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r#readme",
   "devDependencies": {
     "ava": "0.25.0",
-    "coveralls": "3.0.0",
+    "coveralls": "3.0.1",
     "nsp": "3.2.1",
     "nyc": "11.7.1",
     "standard": "11.0.1"
