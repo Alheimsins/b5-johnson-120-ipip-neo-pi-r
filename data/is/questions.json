@@ -1,7 +1,7 @@
 [
   {
     "id": "43c98ce8-a07a-4dc2-80f6-c1b2a2485f06",
-    "text": "Worry about things",
+    "text": "Ég hef áhyggjur",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
@@ -29,14 +29,14 @@
   },
   {
     "id": "c7f53c3c-2e77-432f-bb71-7470b67d3aa9",
-    "text": "Complete tasks successfully",
+    "text": "Ég leysi verkefni á árangursríkan hátt",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
   },
   {
     "id": "48ad12ce-470e-4339-90ac-ea8c43a0103e",
-    "text": "Get angry easily",
+    "text": "Ég reiðist auðveldlega",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
@@ -64,7 +64,7 @@
   },
   {
     "id": "cda1ca17-b599-4561-a6cd-ff9d36062d27",
-    "text": "Like to tidy up",
+    "text": "Mér líkar að taka til",
     "keyed": "plus",
     "domain": "C",
     "facet": 2
@@ -106,7 +106,7 @@
   },
   {
     "id": "b2d9ef74-73f5-4ea8-b00c-7aaca15937df",
-    "text": "Find it difficult to approach others",
+    "text": "Mér finnst erfitt að nálgast aðra",
     "keyed": "plus",
     "domain": "N",
     "facet": 4
@@ -134,7 +134,7 @@
   },
   {
     "id": "b7fc949b-02b6-4cb9-a3e2-dbb3d824b55f",
-    "text": "Work hard",
+    "text": "Ég legg hart að mér",
     "keyed": "plus",
     "domain": "C",
     "facet": 4
@@ -155,14 +155,14 @@
   },
   {
     "id": "e1e804c7-4a1d-498f-8610-f95147af9d1d",
-    "text": "Love to read challenging material",
+    "text": "Ég nýt þess að lesa krefjandi lesefni",
     "keyed": "plus",
     "domain": "O",
     "facet": 5
   },
   {
     "id": "71029381-3908-4c68-91e1-e41fb45542a2",
-    "text": "Believe that I am better than others",
+    "text": "Ég trúi að ég sé betri en aðrir",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -176,7 +176,7 @@
   },
   {
     "id": "2f519935-92e8-48ad-9746-4a0f8b38466a",
-    "text": "Panic easily",
+    "text": "Ég verð auðveldlega örvæntingafull(ur)",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
@@ -204,7 +204,7 @@
   },
   {
     "id": "bd9eec0a-b68b-472c-8803-7db29c308cdb",
-    "text": "Jump into things without thinking",
+    "text": "Ég framkvæmi án þess að hugsa",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -218,7 +218,7 @@
   },
   {
     "id": "af55f014-788c-4b6e-92c4-b2b59dc8a28d",
-    "text": "Feel comfortable around people",
+    "text": "Mér líður vel innan um fólk",
     "keyed": "plus",
     "domain": "E",
     "facet": 1
@@ -246,35 +246,35 @@
   },
   {
     "id": "7dab2a37-8635-4fc7-86b7-0abf13c183c9",
-    "text": "Get irritated easily",
+    "text": "Hlutir fara auðveldlega í taugarnar á mér",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
   },
   {
     "id": "28ab59a0-e7cd-4fce-94e3-bba2ecc023b6",
-    "text": "Talk to a lot of different people at parties",
+    "text": "Ég tala við marga í samkvæmum",
     "keyed": "plus",
     "domain": "E",
     "facet": 2
   },
   {
     "id": "b5919f2f-cded-4745-a9ce-c02703cee807",
-    "text": "See beauty in things that others might not notice",
+    "text": "Ég sé fegurð í hlutum sem aðrir taka mögulega ekki eftir ",
     "keyed": "plus",
     "domain": "O",
     "facet": 2
   },
   {
     "id": "5a5fa975-d024-4ac8-8845-2823f957c21b",
-    "text": "Cheat to get ahead",
+    "text": "Ég svindla til að komast áfram í lífinu",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
   },
   {
     "id": "adf33f9f-45bd-43e3-af25-4c491176d97f",
-    "text": "Often forget to put things back in their proper place",
+    "text": "Ég gleymi oft að setja hluti aftur á sinn stað",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
@@ -295,7 +295,7 @@
   },
   {
     "id": "5631b856-ff34-4f76-a0cd-edc7104c3bfa",
-    "text": "Feel others' emotions",
+    "text": "Ég er næm/ur fyrir tilfinningum annarra  ",
     "keyed": "plus",
     "domain": "O",
     "facet": 3
@@ -316,7 +316,7 @@
   },
   {
     "id": "acd8fadc-5399-4a67-b5ff-9d1ada049c01",
-    "text": "Am afraid to draw attention to myself",
+    "text": "Ég vil síður vekja athygli á mér ",
     "keyed": "plus",
     "domain": "N",
     "facet": 4
@@ -393,7 +393,7 @@
   },
   {
     "id": "961376e0-16a1-4c14-b059-789e63d11b63",
-    "text": "Have a lot of fun",
+    "text": "Það er oft mjög skemmtilegt hjá mér",
     "keyed": "plus",
     "domain": "E",
     "facet": 6
@@ -414,7 +414,7 @@
   },
   {
     "id": "956f3e17-ff17-4af5-a52f-9222b8968106",
-    "text": "Make rash decisions",
+    "text": "Ég tek fljótfærnislegar ákvarðanir",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -456,7 +456,7 @@
   },
   {
     "id": "da8e6ed1-2296-4c58-8fdb-66f2f591989b",
-    "text": "Lose my temper",
+    "text": "Ég missi stjórn á skapi mínu",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
@@ -470,7 +470,7 @@
   },
   {
     "id": "751a04bc-5adf-485a-8ea4-4308406ae85b",
-    "text": "Do not like poetry",
+    "text": "Ég hef ekki áhuga á ljóðum eða ljóðlist",
     "keyed": "minus",
     "domain": "O",
     "facet": 2
@@ -484,7 +484,7 @@
   },
   {
     "id": "f4891687-0ff0-47af-a4f6-d1202c8f6676",
-    "text": "Leave a mess in my room",
+    "text": "Ég skil eftir óreiðu í herberginu mínu",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
@@ -554,7 +554,7 @@
   },
   {
     "id": "a9c97d6b-6721-4150-8d84-64ef3082f164",
-    "text": "Do just enough work to get by",
+    "text": "Ég geri bara það sem þarf en ekkert umfram það",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
@@ -631,14 +631,14 @@
   },
   {
     "id": "43b03992-3f32-4ed1-a6f8-5d6d3e7ed246",
-    "text": "Get stressed out easily",
+    "text": "Ég verð auðveldlega stressuð/stressaður",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
   },
   {
     "id": "41702602-08e4-4e2b-9a19-291d9efc581a",
-    "text": "Keep others at a distance",
+    "text": "Ég held öðrum í fjarlægð",
     "keyed": "minus",
     "domain": "E",
     "facet": 1
@@ -652,7 +652,7 @@
   },
   {
     "id": "432dbde8-8756-4ff0-80d5-f47018235139",
-    "text": "Distrust people",
+    "text": "Ég vantreysti fólki",
     "keyed": "minus",
     "domain": "A",
     "facet": 1
@@ -694,7 +694,7 @@
   },
   {
     "id": "50418d86-712c-45d9-adc4-ea0231c93cf5",
-    "text": "Leave my belongings around",
+    "text": "Ég skil eigur mínar eftir út um allt",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
@@ -715,7 +715,7 @@
   },
   {
     "id": "4fd25155-9cc2-4cd6-8852-3e0ca2d5e95d",
-    "text": "Don't understand people who get emotional",
+    "text": "Ég skil ekki tilfinningasamt fólk",
     "keyed": "minus",
     "domain": "O",
     "facet": 3
@@ -792,7 +792,7 @@
   },
   {
     "id": "80c1d149-7050-481a-9953-aefb441642e7",
-    "text": "Boast about my virtues",
+    "text": "Ég stæri mig af kostum mínum",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -806,7 +806,7 @@
   },
   {
     "id": "88a3c2fe-3aa4-4f46-9322-da656332268a",
-    "text": "Remain calm under pressure",
+    "text": "Ég held ró minni undir álagi",
     "keyed": "minus",
     "domain": "N",
     "facet": 6
