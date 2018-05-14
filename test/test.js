@@ -1,20 +1,26 @@
 const test = require('ava')
 const pkg = require('../package.json')
-const dependencies = pkg.dependencies || {}
-const devDependencies = pkg.devDependencies || {}
-const {getInfo, getItems} = require('../')
+const dependencies = pkg.dependencies || false
+const devDependencies = pkg.devDependencies || false
+const { getInfo, getItems } = require('../')
 
 test('basic check', t => {
   t.true(true, 'ava works ok')
 })
 
-Object.keys(dependencies).forEach(dependency =>
-  test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
-)
+if (dependencies !== false) {
+  Object.keys(dependencies).forEach(dependency =>
+    test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
+  )
+}
 
-Object.keys(devDependencies).forEach(dependency =>
-  test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
-)
+if (devDependencies !== false) {
+  Object.keys(devDependencies)
+    .filter(dependency => !['nsp'].includes(dependency))
+    .forEach(dependency =>
+      test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
+    )
+}
 
 test('basic inventory tests', t => {
   t.truthy(getInfo(), 'info ok')
@@ -29,6 +35,18 @@ test('it throws error for lang xx', t => {
   } catch (e) {
     t.is(e.message, expectedErrorMessage)
   }
+})
+
+test('validation of question ids across languages', t => {
+  const languages = getInfo().languages
+  const questions = languages.map(getItems)
+  const ids = questions.map(qs => qs.map(q => q.id))
+  ids.reduce((previous, current) => {
+    if (previous !== false) {
+      t.deepEqual(previous, current, 'ids match')
+    }
+    return current
+  }, false)
 })
 
 test('it returns sorted inventory items', t =>

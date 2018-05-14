@@ -5,6 +5,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 1,
+    "num": 1,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -39,6 +40,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 1,
+    "num": 2,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -73,6 +75,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
+    "num": 3,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -107,6 +110,7 @@
     "keyed": "plus",
     "domain": "A",
     "facet": 1,
+    "num": 4,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -141,6 +145,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
+    "num": 5,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -175,6 +180,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 2,
+    "num": 6,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -209,6 +215,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 2,
+    "num": 7,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -243,6 +250,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 2,
+    "num": 8,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -277,6 +285,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
+    "num": 9,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -311,6 +320,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 2,
+    "num": 10,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -345,6 +355,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 3,
+    "num": 11,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -379,6 +390,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 3,
+    "num": 12,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -413,6 +425,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 3,
+    "num": 13,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -447,6 +460,7 @@
     "keyed": "plus",
     "domain": "A",
     "facet": 3,
+    "num": 14,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -481,6 +495,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 3,
+    "num": 15,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -515,6 +530,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 4,
+    "num": 16,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -549,6 +565,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 4,
+    "num": 17,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -583,6 +600,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 4,
+    "num": 18,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -617,6 +635,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
+    "num": 19,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -651,6 +670,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 4,
+    "num": 20,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -685,6 +705,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 5,
+    "num": 21,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -719,6 +740,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 5,
+    "num": 22,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -753,6 +775,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 5,
+    "num": 23,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -787,6 +810,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
+    "num": 24,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -821,6 +845,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 5,
+    "num": 25,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -855,6 +880,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 6,
+    "num": 26,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -889,6 +915,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 6,
+    "num": 27,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -923,6 +950,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 6,
+    "num": 28,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -957,6 +985,7 @@
     "keyed": "plus",
     "domain": "A",
     "facet": 6,
+    "num": 29,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -991,6 +1020,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
+    "num": 30,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1025,6 +1055,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 1,
+    "num": 31,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1059,6 +1090,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 1,
+    "num": 32,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1093,6 +1125,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
+    "num": 33,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1127,6 +1160,7 @@
     "keyed": "plus",
     "domain": "A",
     "facet": 1,
+    "num": 34,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1161,6 +1195,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
+    "num": 35,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1195,6 +1230,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 2,
+    "num": 36,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1229,6 +1265,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 2,
+    "num": 37,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1263,6 +1300,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 2,
+    "num": 38,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1297,6 +1335,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
+    "num": 39,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1331,6 +1370,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 2,
+    "num": 40,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1365,6 +1405,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 3,
+    "num": 41,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1399,6 +1440,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 3,
+    "num": 42,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1433,6 +1475,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 3,
+    "num": 43,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1467,6 +1510,7 @@
     "keyed": "plus",
     "domain": "A",
     "facet": 3,
+    "num": 44,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1501,6 +1545,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 3,
+    "num": 45,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1535,6 +1580,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 4,
+    "num": 46,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1569,6 +1615,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 4,
+    "num": 47,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1603,6 +1650,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 4,
+    "num": 48,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1637,6 +1685,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
+    "num": 49,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1671,6 +1720,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 4,
+    "num": 50,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1705,6 +1755,7 @@
     "keyed": "minus",
     "domain": "N",
     "facet": 5,
+    "num": 51,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1739,6 +1790,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 5,
+    "num": 52,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1773,6 +1825,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 5,
+    "num": 53,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1807,6 +1860,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
+    "num": 54,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1841,6 +1895,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 5,
+    "num": 55,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1875,6 +1930,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 6,
+    "num": 56,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1909,6 +1965,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 6,
+    "num": 57,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1943,6 +2000,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 6,
+    "num": 58,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -1977,6 +2035,7 @@
     "keyed": "plus",
     "domain": "A",
     "facet": 6,
+    "num": 59,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2011,6 +2070,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
+    "num": 60,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2045,6 +2105,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 1,
+    "num": 61,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2079,6 +2140,7 @@
     "keyed": "minus",
     "domain": "E",
     "facet": 1,
+    "num": 62,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2113,6 +2175,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
+    "num": 63,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2147,6 +2210,7 @@
     "keyed": "plus",
     "domain": "A",
     "facet": 1,
+    "num": 64,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2181,6 +2245,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
+    "num": 65,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2215,6 +2280,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 2,
+    "num": 66,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2249,6 +2315,7 @@
     "keyed": "minus",
     "domain": "E",
     "facet": 2,
+    "num": 67,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2283,6 +2350,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 2,
+    "num": 68,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2317,6 +2385,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
+    "num": 69,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2351,6 +2420,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 2,
+    "num": 70,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2385,6 +2455,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 3,
+    "num": 71,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2419,6 +2490,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 3,
+    "num": 72,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2453,6 +2525,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 3,
+    "num": 73,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2487,6 +2560,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 3,
+    "num": 74,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2521,6 +2595,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 3,
+    "num": 75,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2555,6 +2630,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 4,
+    "num": 76,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2589,6 +2665,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 4,
+    "num": 77,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2623,6 +2700,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 4,
+    "num": 78,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2657,6 +2735,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
+    "num": 79,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2691,6 +2770,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 4,
+    "num": 80,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2725,6 +2805,7 @@
     "keyed": "minus",
     "domain": "N",
     "facet": 5,
+    "num": 81,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2759,6 +2840,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 5,
+    "num": 82,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2793,6 +2875,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 5,
+    "num": 83,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2827,6 +2910,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
+    "num": 84,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2861,6 +2945,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 5,
+    "num": 85,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2895,6 +2980,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 6,
+    "num": 86,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2929,6 +3015,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 6,
+    "num": 87,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2963,6 +3050,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 6,
+    "num": 88,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -2997,6 +3085,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 6,
+    "num": 89,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3031,6 +3120,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
+    "num": 90,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3065,6 +3155,7 @@
     "keyed": "plus",
     "domain": "N",
     "facet": 1,
+    "num": 91,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3099,6 +3190,7 @@
     "keyed": "minus",
     "domain": "E",
     "facet": 1,
+    "num": 92,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3133,6 +3225,7 @@
     "keyed": "plus",
     "domain": "O",
     "facet": 1,
+    "num": 93,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3167,6 +3260,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 1,
+    "num": 94,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3201,6 +3295,7 @@
     "keyed": "plus",
     "domain": "C",
     "facet": 1,
+    "num": 95,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3235,6 +3330,7 @@
     "keyed": "minus",
     "domain": "N",
     "facet": 2,
+    "num": 96,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3269,6 +3365,7 @@
     "keyed": "minus",
     "domain": "E",
     "facet": 2,
+    "num": 97,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3303,6 +3400,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 2,
+    "num": 98,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3337,6 +3435,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 2,
+    "num": 99,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3371,6 +3470,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 2,
+    "num": 100,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3405,6 +3505,7 @@
     "keyed": "minus",
     "domain": "N",
     "facet": 3,
+    "num": 101,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3439,6 +3540,7 @@
     "keyed": "minus",
     "domain": "E",
     "facet": 3,
+    "num": 102,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3473,6 +3575,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 3,
+    "num": 103,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3507,6 +3610,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 3,
+    "num": 104,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3541,6 +3645,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 3,
+    "num": 105,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3575,6 +3680,7 @@
     "keyed": "minus",
     "domain": "N",
     "facet": 4,
+    "num": 106,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3609,6 +3715,7 @@
     "keyed": "minus",
     "domain": "E",
     "facet": 4,
+    "num": 107,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3643,6 +3750,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 4,
+    "num": 108,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3677,6 +3785,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 4,
+    "num": 109,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3711,6 +3820,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 4,
+    "num": 110,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3745,6 +3855,7 @@
     "keyed": "minus",
     "domain": "N",
     "facet": 5,
+    "num": 111,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3779,6 +3890,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 5,
+    "num": 112,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3813,6 +3925,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 5,
+    "num": 113,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3847,6 +3960,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 5,
+    "num": 114,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3881,6 +3995,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 5,
+    "num": 115,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3915,6 +4030,7 @@
     "keyed": "minus",
     "domain": "N",
     "facet": 6,
+    "num": 116,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3949,6 +4065,7 @@
     "keyed": "plus",
     "domain": "E",
     "facet": 6,
+    "num": 117,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -3983,6 +4100,7 @@
     "keyed": "minus",
     "domain": "O",
     "facet": 6,
+    "num": 118,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -4017,6 +4135,7 @@
     "keyed": "minus",
     "domain": "A",
     "facet": 6,
+    "num": 119,
     "choices": [
       {
         "text": "Very Inaccurate",
@@ -4051,6 +4170,7 @@
     "keyed": "minus",
     "domain": "C",
     "facet": 6,
+    "num": 120,
     "choices": [
       {
         "text": "Very Inaccurate",
