@@ -75,6 +75,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | en   | English   |            |
 | no   | Norwegian | Eli Huseby |
 | es   | Spanish   | Eduardo Calle |
+| is   | Icelandic | Franz Jónas Arnar Arnarson and [Sigurður Kári Árnason](https://github.com/sigurdurkari) |
 
 ## Help wanted
 
