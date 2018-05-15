@@ -183,7 +183,7 @@
   },
   {
     "id": "899c3f66-51d0-46ea-963a-6fc36d3b3cb9",
-    "text": "	Je respire la joie",
+    "text": "Je respire la joie",
     "keyed": "plus",
     "domain": "E",
     "facet": 6
@@ -197,7 +197,7 @@
   },
   {
     "id": "fd50e1ca-d9e0-4037-a7a1-a191d4db2d96",
-    "text": "	Je sympathise avec les sans-abri",
+    "text": "Je sympathise avec les sans-abri",
     "keyed": "plus",
     "domain": "A",
     "facet": 6
@@ -575,7 +575,7 @@
   },
   {
     "id": "fecc35f7-681e-4889-a404-4a973a3dfef0",
-    "text": "	J'ai de la difficulté à comprendre les idées abstraites",
+    "text": "J'ai de la difficulté à comprendre les idées abstraites",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
@@ -610,7 +610,7 @@
   },
   {
     "id": "96ba77b2-1a44-4dfd-95f9-ae4d1f714460",
-    "text": "	J’ai tendance à promouvoir des valeurs sociales libérales",
+    "text": "J’ai tendance à promouvoir des valeurs sociales libérales",
     "keyed": "minus",
     "domain": "O",
     "facet": 6
@@ -645,7 +645,7 @@
   },
   {
     "id": "935a7413-abac-4f54-9169-d1fbd39da752",
-    "text": "	J'aime me perdre dans mes pensées",
+    "text": "J'aime me perdre dans mes pensées",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -680,7 +680,7 @@
   },
   {
     "id": "87c5b27e-59a8-4c48-8ba8-f5413d735693",
-    "text": "	Je n'apprécie pas aller à des musées d'art",
+    "text": "Je n'apprécie pas aller à des musées d'art",
     "keyed": "minus",
     "domain": "O",
     "facet": 2
@@ -708,21 +708,21 @@
   },
   {
     "id": "8791f37b-686f-47c3-9db7-74c009951321",
-    "text": "	J'attends que les autres prennent les devants",
+    "text": "J'attends que les autres prennent les devants",
     "keyed": "minus",
     "domain": "E",
     "facet": 3
   },
   {
     "id": "4fd25155-9cc2-4cd6-8852-3e0ca2d5e95d",
-    "text": "	Je ne comprends pas les gens émotifs",
+    "text": "Je ne comprends pas les gens émotifs",
     "keyed": "minus",
     "domain": "O",
     "facet": 3
   },
   {
     "id": "b68af20d-24f9-4c27-85cc-fe0858994888",
-    "text": "	Je ne prends pas de temps pour les autres",
+    "text": "Je ne prends pas de temps pour les autres",
     "keyed": "minus",
     "domain": "A",
     "facet": 3
@@ -743,7 +743,7 @@
   },
   {
     "id": "7d93e1ca-46e8-4a30-9623-42a80c9b420c",
-    "text": "	J'aime prendre ça mollo",
+    "text": "J'aime prendre ça mollo",
     "keyed": "minus",
     "domain": "E",
     "facet": 4
@@ -799,7 +799,7 @@
   },
   {
     "id": "51403620-968c-42fa-a772-65ba5ad8396f",
-    "text": "	J'ai de la difficulté à commencer les tâches",
+    "text": "J'ai de la difficulté à commencer les tâches",
     "keyed": "minus",
     "domain": "C",
     "facet": 5
