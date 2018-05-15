@@ -1,54 +1,54 @@
 module.exports = {
   plus: [
     {
-      text: 'Stämmer absolut inte',
+      text: 'Very Inaccurate',
       score: 1,
       color: 1
     },
     {
-      text: 'Stämmer ganska dåligt',
+      text: 'Moderately Inaccurate',
       score: 2,
       color: 2
     },
     {
-      text: 'Stämmer varken bra eller dåligt',
+      text: 'Neither Accurate Nor Inaccurate',
       score: 3,
       color: 3
     },
     {
-      text: 'Stämmer ganska bra',
+      text: 'Moderately Accurate',
       score: 4,
       color: 4
     },
     {
-      text: 'Stämmer absolut',
+      text: 'Very Accurate',
       score: 5,
       color: 5
     }
   ],
   minus: [
     {
-      text: 'Stämmer absolut inte',
+      text: 'Very Inaccurate',
       score: 5,
       color: 1
     },
     {
-      text: 'Stämmer ganska dåligt',
+      text: 'Moderately Inaccurate',
       score: 4,
       color: 2
     },
     {
-      text: 'Stämmer varken bra eller dåligt',
+      text: 'Neither Accurate Nor Inaccurate',
       score: 3,
       color: 3
     },
     {
-      text: 'Stämmer ganska bra',
+      text: 'Moderately Accurate',
       score: 2,
       color: 4
     },
     {
-      text: 'Stämmer absolut',
+      text: 'Very Accurate',
       score: 1,
       color: 5
     }

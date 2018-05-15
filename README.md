@@ -78,6 +78,9 @@ returns an [array with questions and choices](examples/items-en.json)
 | es   | Spanish   | Eduardo Calle |
 | is   | Icelandic | Franz Jónas Arnar Arnarson and [Sigurður Kári Árnason](https://github.com/sigurdurkari) |
 | nl   | Dutch     | Eus van Somerenk, Kim Dekker and Tessa Blanken |
+| se   | Swedish   | Martin Bäckström |
+| hr   | Croatian  | Željko Jerneić |
+| fr   | French    | Mathew Gravel |
 
 ## Help wanted
 
