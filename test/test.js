@@ -8,13 +8,13 @@ test('basic check', t => {
   t.true(true, 'ava works ok')
 })
 
-if (dependencies !== false) {
+if (dependencies) {
   Object.keys(dependencies).forEach(dependency =>
     test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
   )
 }
 
-if (devDependencies !== false) {
+if (devDependencies) {
   Object.keys(devDependencies)
     .filter(dependency => !['nsp'].includes(dependency))
     .forEach(dependency =>
@@ -68,4 +68,9 @@ test('random inventory items', t => {
   randomItems.map(randomItem =>
     t.deepEqual(sortedItems.find(sortedItem => randomItem.id === sortedItem.id), randomItem)
   )
+})
+
+test('test all languages', t => {
+  const languages = getInfo().languages
+  languages.map(language => t.truthy(getItems(language, false), `${language} items ok`))
 })

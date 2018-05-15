@@ -81,6 +81,10 @@ returns an [array with questions and choices](examples/items-en.json)
 | se   | Swedish   | Martin Bäckström |
 | hr   | Croatian  | Željko Jerneić |
 | fr   | French    | Mathew Gravel |
+| et   | Estonian  | René Mõttus, Helle Pullmann, Jüri Allik, Liina Haring, Kenn Konstabel, and Anu Realo |
+| de   | German    | Heinz Streib and Manuela Wiedmaier |
+| jp   | Japanese  | Omar Karlin |
+| ur   | Urdru     | Engr. Ahmad Khan |
 
 ## Help wanted
 
@@ -108,4 +112,4 @@ If you want to help by translating the items to other languages this is how you 
 
 Created with <3 by [Alheimsins](https://github.com/Alheimsins)
 
-![Alheimsins symbol](https://file-qwoleuymtm.now.sh "Alheimsins symbol") 
+![Alheimsins symbol](https://file-qwoleuymtm.now.sh "Alheimsins symbol")
