@@ -19,6 +19,10 @@
   "engines": {
     "node": ">=8.11.1"
   },
+  "files": [
+    "data/",
+    "index.js"
+  ],
   "scripts": {
     "test": "standard && nsp check && ava",
     "test-offline": "standard && ava",
