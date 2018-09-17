@@ -11,7 +11,7 @@ module.exports.getItems = (lang = 'en', shuffle = false) => {
   }
 
   const inventory = shuffle === true ? knuthShuffle(questions) : questions
-  return inventory.map((question, i) => Object.assign(question, {num: ++i, choices: choices[question.keyed]}))
+  return inventory.map((question, i) => Object.assign(question, { num: ++i, choices: choices[question.keyed] }))
 }
 
 module.exports.getInfo = () => {
