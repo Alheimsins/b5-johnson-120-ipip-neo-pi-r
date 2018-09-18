@@ -4,5 +4,9 @@
   ],
   "devDependencies": {
     "automerge": true
-  }
+  },
+  "assignees": [
+    "maccyber",
+    "zrrrzzt"
+  ]
 }
