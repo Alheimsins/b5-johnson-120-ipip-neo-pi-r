@@ -85,6 +85,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | de   | German    | Heinz Streib and Manuela Wiedmaier |
 | jp   | Japanese  | Omar Karlin |
 | ur   | Urdru     | Engr. Ahmad Khan |
+| pt-br| Portuguese (brazil) | Marcelo Rigon |
 
 ## Help wanted
 
