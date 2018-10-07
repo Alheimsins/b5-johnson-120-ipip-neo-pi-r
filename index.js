@@ -14,14 +14,14 @@ module.exports.getItems = (lang = 'en', shuffle = false) => {
   return inventory.map((question, i) => Object.assign(question, { num: ++i, choices: choices[question.keyed] }))
 }
 
-module.exports.getInfo = () => {
-  return {
+module.exports.getInfo = () => (
+  {
     name: `Johnson's IPIP NEO-PI-R`,
     id: 'johnson-120-ipip-neo-pi-r',
     shortId: 'b5-120',
-    time: 20,
+    time: 10,
     questions: 120,
     note: 'Recommended',
-    languages: languages
+    languages
   }
-}
+)

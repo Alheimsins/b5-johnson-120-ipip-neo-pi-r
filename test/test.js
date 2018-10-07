@@ -1,7 +1,5 @@
 const test = require('ava')
-const pkg = require('../package.json')
-const dependencies = pkg.dependencies || false
-const devDependencies = pkg.devDependencies || false
+const { dependencies, devDependencies } = require('../package.json')
 const { getInfo, getItems } = require('../')
 
 test('basic check', t => {
@@ -16,7 +14,6 @@ if (dependencies) {
 
 if (devDependencies) {
   Object.keys(devDependencies)
-    .filter(dependency => !['nsp'].includes(dependency))
     .forEach(dependency =>
       test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
     )
@@ -38,7 +35,8 @@ test('it throws error for lang xx', t => {
 })
 
 test('validation of question ids across languages', t => {
-  const languages = getInfo().languages
+  const { languages } = getInfo()
+  if (languages.length <= 1) t.pass()
   const questions = languages.map(getItems)
   const ids = questions.map(qs => qs.map(q => q.id))
   ids.reduce((previous, current) => {
