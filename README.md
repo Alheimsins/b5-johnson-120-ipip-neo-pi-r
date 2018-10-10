@@ -9,13 +9,13 @@ Module for returning Big Five [Johnson 120 IPIP-NEO-PI-R](http://ipip.ori.org/30
 ## Installation
 
 ```
-$ npm i b5-johnson-120-ipip-neo-pi-r
+$ npm i @alheimsins/b5-johnson-120-ipip-neo-pi-r
 ```
 
 ## Usage
 
 ```JavaScript
-const { getItems, getInfo } = require('b5-johnson-120-ipip-neo-pi-r')
+const { getItems, getInfo } = require('@alheimsins/b5-johnson-120-ipip-neo-pi-r')
 
 console.log(getItems()) // returns English
 
