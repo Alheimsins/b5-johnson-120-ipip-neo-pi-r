@@ -76,6 +76,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | no   | Norwegian | Eli Huseby |
 | es   | Spanish   | Eduardo Calle |
 | is   | Icelandic | Franz Jónas Arnar Arnarson and [Sigurður Kári Árnason](https://github.com/sigurdurkari) |
+| it   | Italian   | [Lorenzo Carducci](https://github.com/riourbana) |
 | nl   | Dutch     | Eus van Somerenk, Kim Dekker and Tessa Blanken |
 | se   | Swedish   | Martin Bäckström |
 | hr   | Croatian  | Željko Jerneić |
