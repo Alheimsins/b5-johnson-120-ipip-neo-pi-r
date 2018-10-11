@@ -89,6 +89,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | ru   | Russian   | [Javid Askerov](https://github.com/askeroff) |
 | zh-cn| Simplified Chinese | [Roy Jia](https://github.com/RoyJia) |
 | th   | Thai      | [Maneepailin Sriuthenchai](https://github.com/linsuri) |
+| fi   | Finnish   | [Anastasia Lipiäinen](https://github.com/ankkukku) |
 
 ## Help wanted
 
