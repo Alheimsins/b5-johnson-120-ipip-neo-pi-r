@@ -88,6 +88,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | pt-br| Portuguese (brazil) | Marcelo Rigon |
 | ru   | Russian   | [Javid Askerov](https://github.com/askeroff) |
 | zh-cn| Simplified Chinese | [Roy Jia](https://github.com/RoyJia) |
+| th   | Thai      | [Maneepailin Sriuthenchai](https://github.com/linsuri) |
 
 ## Help wanted
 
