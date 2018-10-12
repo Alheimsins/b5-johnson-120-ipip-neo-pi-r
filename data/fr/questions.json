@@ -134,7 +134,7 @@
   },
   {
     "id": "b7fc949b-02b6-4cb9-a3e2-dbb3d824b55f",
-    "text": "Je travaille fort",
+    "text": "Je travaille dur",
     "keyed": "plus",
     "domain": "C",
     "facet": 4
@@ -204,7 +204,7 @@
   },
   {
     "id": "bd9eec0a-b68b-472c-8803-7db29c308cdb",
-    "text": "Je me lance dans les choses sans réfléchir",
+    "text": "Je me lance dans des choses sans réfléchir",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -253,7 +253,7 @@
   },
   {
     "id": "28ab59a0-e7cd-4fce-94e3-bba2ecc023b6",
-    "text": "Je parle à plusieurs personnes dans les partys",
+    "text": "Je parle à beaucoup de personnes dans les fêtes",
     "keyed": "plus",
     "domain": "E",
     "facet": 2
@@ -316,7 +316,7 @@
   },
   {
     "id": "acd8fadc-5399-4a67-b5ff-9d1ada049c01",
-    "text": "J'ai peur d'attirer l'attention vers moi",
+    "text": "J'ai peur d'attirer l'attention",
     "keyed": "plus",
     "domain": "N",
     "facet": 4
@@ -421,7 +421,7 @@
   },
   {
     "id": "4d81238b-5407-47d4-88e5-dc0e38aa14f5",
-    "text": "J'ai peur de plusieurs choses",
+    "text": "J'ai peur de beaucoup de choses",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
@@ -533,7 +533,7 @@
   },
   {
     "id": "b2a077d5-1fe0-4b06-ab63-35455e001e54",
-    "text": "Je fais beaucoup de choses dans mes temps libres",
+    "text": "Je fais beaucoup de choses pendant mon temps libre",
     "keyed": "plus",
     "domain": "E",
     "facet": 4
@@ -575,7 +575,7 @@
   },
   {
     "id": "fecc35f7-681e-4889-a404-4a973a3dfef0",
-    "text": "J'ai de la difficulté à comprendre les idées abstraites",
+    "text": "J'ai des difficultés à comprendre les idées abstraites",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
@@ -680,7 +680,7 @@
   },
   {
     "id": "87c5b27e-59a8-4c48-8ba8-f5413d735693",
-    "text": "Je n'apprécie pas aller à des musées d'art",
+    "text": "Je n'apprécie pas visiter des musées d'art",
     "keyed": "minus",
     "domain": "O",
     "facet": 2
@@ -694,7 +694,7 @@
   },
   {
     "id": "50418d86-712c-45d9-adc4-ea0231c93cf5",
-    "text": "Je laisse traîner mes choses",
+    "text": "Je laisse traîner les choses",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
