@@ -86,7 +86,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | jp   | Japanese  | Omar Karlin |
 | ur   | Urdru     | Engr. Ahmad Khan |
 | pt-br| Portuguese (brazil) | Marcelo Rigon |
-| ru   | Russian   | [Javid Askerov](https://github.com/askeroff) |
+| ru   | Russian   | [Javid Askerov](https://github.com/askeroff), [Olga V](https://github.com/berrybell) |
 | zh-cn| Simplified Chinese | [Roy Jia](https://github.com/RoyJia) |
 | th   | Thai      | [Maneepailin Sriuthenchai](https://github.com/linsuri) |
 | fi   | Finnish   | [Anastasia Tapper](https://github.com/ankkukku) |
