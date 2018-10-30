@@ -90,6 +90,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | zh-cn| Simplified Chinese | [Roy Jia](https://github.com/RoyJia) |
 | th   | Thai      | [Maneepailin Sriuthenchai](https://github.com/linsuri) |
 | fi   | Finnish   | [Anastasia Tapper](https://github.com/ankkukku) |
+| id   | Indonesian| [David Adi Nugroho](https://github.com/lakuapik) |
 
 ## Help wanted
 
