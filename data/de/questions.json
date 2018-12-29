@@ -57,7 +57,7 @@
   },
   {
     "id": "0cf79e27-e702-45c2-9471-04ac96b58e0e",
-    "text": "Ich benutze und manipuliere andere, um mein Ziel zu erreichen",
+    "text": "Ich benutze und manipuliere andere, um meine Ziele zu erreichen",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
@@ -225,7 +225,7 @@
   },
   {
     "id": "08ff6dca-02a5-4aeb-aaa4-2ecf2526f143",
-    "text": "Ich mag geistige Höhenflüge",
+    "text": "Ich genieße es, meine Fantasien ungezügelt schweifen zu lassen",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -267,7 +267,7 @@
   },
   {
     "id": "5a5fa975-d024-4ac8-8845-2823f957c21b",
-    "text": "Ich scheue mich nicht, zu betrügen, um voranzukommen",
+    "text": "Ich scheue mich nicht zu betrügen, um voranzukommen",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
@@ -288,7 +288,7 @@
   },
   {
     "id": "0b38e3d3-c15c-454c-b034-f4eb7ae1580a",
-    "text": "Ich versuche das Sagen zu haben – andere zu führen",
+    "text": "Ich versuche das Sagen zu haben bzw. andere zu führen",
     "keyed": "plus",
     "domain": "E",
     "facet": 3
@@ -358,7 +358,7 @@
   },
   {
     "id": "f1675af6-88bf-4376-a946-0281e762b39c",
-    "text": "Ich bemühe mich, das Abenteuer zu suchen",
+    "text": "Ich suche das Abenteuer",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -449,7 +449,7 @@
   },
   {
     "id": "02ee1930-36a7-4caa-b10c-c93efb682a44",
-    "text": "Ich erledige Aufgaben methodisch",
+    "text": "Ich erledige Aufgaben reibungslos",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
@@ -477,7 +477,7 @@
   },
   {
     "id": "982e83c2-d34e-48da-9c71-78494ab05c85",
-    "text": "Ich benutze andere Menschen",
+    "text": "Ich nutze andere Menschen aus",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
@@ -666,7 +666,7 @@
   },
   {
     "id": "d32bd062-4eb2-401b-99b2-e7afea39ca9b",
-    "text": "Ich bin nicht leicht verärgert",
+    "text": "Ich bin nicht schnell verägert",
     "keyed": "minus",
     "domain": "N",
     "facet": 2
