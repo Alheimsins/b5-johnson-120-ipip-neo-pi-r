@@ -162,7 +162,7 @@
   },
   {
     "id": "71029381-3908-4c68-91e1-e41fb45542a2",
-    "text": "Ich glaube, dass ich besser als die anderen bin",
+    "text": "Ich glaube, dass ich besser als andere bin",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -211,7 +211,7 @@
   },
   {
     "id": "7f92ab2c-265c-4b84-8c74-09f9bb9d41a7",
-    "text": "Ich befürchte das Schlimmste",
+    "text": "Ich befürchte immer das Schlimmste",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
@@ -519,7 +519,7 @@
   },
   {
     "id": "4e6e3a34-176f-4e6e-8730-1341611f972b",
-    "text": "Ich verstoße häufiger gegen Spielregeln",
+    "text": "Ich verstoße häufig gegen Spielregeln",
     "keyed": "minus",
     "domain": "C",
     "facet": 3
@@ -596,7 +596,7 @@
   },
   {
     "id": "b7e0e393-9b21-4e0d-adf3-8f28fb5b9d87",
-    "text": "Ich bin häufig überfordert",
+    "text": "Ich merke, wenn ich Dingen nicht gewachsen bin",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
