@@ -85,7 +85,7 @@
   },
   {
     "id": "0727def6-3d18-4221-bf38-86b58f9f3eed",
-    "text": "Meine Gefühlswelt ist sehr intensiv.",
+    "text": "Meine Gefühlswelt ist sehr intensiv",
     "keyed": "plus",
     "domain": "O",
     "facet": 3
@@ -148,7 +148,7 @@
   },
   {
     "id": "987efee2-899f-4a65-b9b5-1589ef0460d7",
-    "text": "Ich mag es lebhaft und aufregend.",
+    "text": "Ich mag es lebhaft und aufregend",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -162,7 +162,7 @@
   },
   {
     "id": "71029381-3908-4c68-91e1-e41fb45542a2",
-    "text": "Ich glaube, dass ich besser als die anderen bin",
+    "text": "Ich glaube, dass ich besser als andere bin",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -204,14 +204,14 @@
   },
   {
     "id": "bd9eec0a-b68b-472c-8803-7db29c308cdb",
-    "text": "Ich handle oft spontan, ohne nachzudenken.",
+    "text": "Ich handle oft spontan, ohne nachzudenken",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
   },
   {
     "id": "7f92ab2c-265c-4b84-8c74-09f9bb9d41a7",
-    "text": "Ich befürchte das Schlimmste",
+    "text": "Ich befürchte immer das Schlimmste",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
@@ -225,7 +225,7 @@
   },
   {
     "id": "08ff6dca-02a5-4aeb-aaa4-2ecf2526f143",
-    "text": "Ich genieße es, meiner Phantasie freien Lauf zu lassen.",
+    "text": "Ich genieße es, meiner Phantasie freien Lauf zu lassen",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -288,7 +288,7 @@
   },
   {
     "id": "0b38e3d3-c15c-454c-b034-f4eb7ae1580a",
-    "text": "Ich übernehme gerne die Führung von anderen.",
+    "text": "Ich übernehme gerne die Führung von anderen",
     "keyed": "plus",
     "domain": "E",
     "facet": 3
@@ -428,7 +428,7 @@
   },
   {
     "id": "9f9166f0-fa94-4c14-a91d-3eecd8395794",
-    "text": "Ich vermeide, wenn möglich, bewusst den Kontakt mit anderen Menschen.",
+    "text": "Ich vermeide, wenn möglich, bewusst den Kontakt mit anderen Menschen",
     "keyed": "minus",
     "domain": "E",
     "facet": 1
@@ -477,7 +477,7 @@
   },
   {
     "id": "982e83c2-d34e-48da-9c71-78494ab05c85",
-    "text": "Ich nutze andere für meine Zwecke aus.",
+    "text": "Ich nutze andere für meine Zwecke aus",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
@@ -519,7 +519,7 @@
   },
   {
     "id": "4e6e3a34-176f-4e6e-8730-1341611f972b",
-    "text": "Ich verstoße häufiger gegen Spielregeln.",
+    "text": "Ich verstoße häufig gegen Spielregeln",
     "keyed": "minus",
     "domain": "C",
     "facet": 3
@@ -568,7 +568,7 @@
   },
   {
     "id": "7dd6cf2d-5c14-48c2-8ae5-633a7a596c71",
-    "text": "Ich bin gerne waghalsig und unbesonnen.",
+    "text": "Ich bin gerne waghalsig und unbesonnen",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -596,7 +596,7 @@
   },
   {
     "id": "b7e0e393-9b21-4e0d-adf3-8f28fb5b9d87",
-    "text": "Ich bin häufig überfordert.",
+    "text": "Ich merke, wenn ich Dingen nicht gewachsen bin",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
@@ -624,7 +624,7 @@
   },
   {
     "id": "a354cf7c-8d11-46ac-acc5-da90d2048637",
-    "text": "Ich handle oft vorschnell.",
+    "text": "Ich handle oft vorschnell",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -743,7 +743,7 @@
   },
   {
     "id": "7d93e1ca-46e8-4a30-9623-42a80c9b420c",
-    "text": "Ich mag es gern relaxed.",
+    "text": "Ich mag es gern relaxed",
     "keyed": "minus",
     "domain": "E",
     "facet": 4
@@ -778,7 +778,7 @@
   },
   {
     "id": "10f90fa9-649c-4631-ac4c-3dd3f751597d",
-    "text": "Ich verhalte mich ungestüm und unkontrolliert.",
+    "text": "Ich verhalte mich ungestüm und unkontrolliert",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -820,7 +820,7 @@
   },
   {
     "id": "580b08d1-3c94-46e9-9d07-d6d80c698127",
-    "text": "Meiner Meinung nach müssen wir sehr hart gegen Verbrechen vorgehen.",
+    "text": "Meiner Meinung nach müssen wir sehr hart gegen Verbrechen vorgehen",
     "keyed": "minus",
     "domain": "O",
     "facet": 6
