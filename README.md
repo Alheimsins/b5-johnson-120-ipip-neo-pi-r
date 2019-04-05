@@ -91,6 +91,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | th   | Thai      | [Maneepailin Sriuthenchai](https://github.com/linsuri) |
 | fi   | Finnish   | [Anastasia Tapper](https://github.com/ankkukku) |
 | id   | Indonesian| [David Adi Nugroho](https://github.com/lakuapik) |
+| hi   | Hindi     | [Punit Singh](https://github.com/thepunitsingh) |
 
 ## Help wanted
 
