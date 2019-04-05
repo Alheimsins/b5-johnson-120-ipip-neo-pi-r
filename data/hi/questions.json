@@ -323,7 +323,7 @@
   },
   {
     "id": "d07b6c67-0d02-4948-a997-bb84ac234cd8",
-    "text": "Am always on the go",
+    "text": "हर समय व्यस्त रहते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 4
@@ -554,287 +554,287 @@
   },
   {
     "id": "a9c97d6b-6721-4150-8d84-64ef3082f164",
-    "text": "Do just enough work to get by",
+    "text": "केवल काम निकलने भर का पर्याप्त कार्य करते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
   },
   {
     "id": "9f2e7f90-0ca5-4ed0-9fe5-e060238a9b5e",
-    "text": "Easily resist temptations",
+    "text": "प्रलोभनों का आसानी से प्रतिरोध करते हैं",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
   },
   {
     "id": "7dd6cf2d-5c14-48c2-8ae5-633a7a596c71",
-    "text": "Enjoy being reckless",
+    "text": "लापरवाह होने में आनंद आता है",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
   },
   {
     "id": "fecc35f7-681e-4889-a404-4a973a3dfef0",
-    "text": "Have difficulty understanding abstract ideas",
+    "text": "अमूर्त विचारों को समझने में कठिनाई होती है",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
   },
   {
     "id": "1d686958-6fe7-432f-85e6-186b99e4e232",
-    "text": "Have a high opinion of myself",
+    "text": "अपने बारे में उच्च विचार रखते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
   },
   {
     "id": "c7db0ed8-df7d-49bf-942f-59e46ef743c4",
-    "text": "Waste my time",
+    "text": "समय बर्बाद करते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 5
   },
   {
     "id": "b7e0e393-9b21-4e0d-adf3-8f28fb5b9d87",
-    "text": "Feel that I'm unable to deal with things",
+    "text": "अपने आप को चीज़ों से निपटने में असमर्थ महसूस करते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
   },
   {
     "id": "79d956e8-1118-402a-a0e2-9380af18243e",
-    "text": "Love life",
+    "text": "जीवन से प्रेम करते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 6
   },
   {
     "id": "96ba77b2-1a44-4dfd-95f9-ae4d1f714460",
-    "text": "Tend to vote for conservative political candidates",
+    "text": "रूढ़िवादी राजनीतिक उम्मीदवारों के लिए वोट करना पसंद है",
     "keyed": "minus",
     "domain": "O",
     "facet": 6
   },
   {
     "id": "77f54ab4-0fba-4efb-8700-066c7490eb87",
-    "text": "Am not interested in other people's problems",
+    "text": "अन्य लोगों की समस्याओं में कोई दिलचस्पी नहीं है",
     "keyed": "minus",
     "domain": "A",
     "facet": 6
   },
   {
     "id": "a354cf7c-8d11-46ac-acc5-da90d2048637",
-    "text": "Rush into things",
+    "text": "चीज़ों में हड़बड़ी करते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
   },
   {
     "id": "43b03992-3f32-4ed1-a6f8-5d6d3e7ed246",
-    "text": "Get stressed out easily",
+    "text": "आसानी से तनाव होता है",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
   },
   {
     "id": "41702602-08e4-4e2b-9a19-291d9efc581a",
-    "text": "Keep others at a distance",
+    "text": "दूसरों को खुद से दूर रखते हैं",
     "keyed": "minus",
     "domain": "E",
     "facet": 1
   },
   {
     "id": "935a7413-abac-4f54-9169-d1fbd39da752",
-    "text": "Like to get lost in thought",
+    "text": "विचारों में खो जाना पसंद है",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
   },
   {
     "id": "432dbde8-8756-4ff0-80d5-f47018235139",
-    "text": "Distrust people",
+    "text": "लोगों पर अविश्वास करते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 1
   },
   {
     "id": "5727c93f-317b-4af1-a686-77fc9fbc5033",
-    "text": "Know how to get things done",
+    "text": "काम निकलना जानते हैं",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
   },
   {
     "id": "d32bd062-4eb2-401b-99b2-e7afea39ca9b",
-    "text": "Am not easily annoyed",
+    "text": "आसानी से चिढ़ते नहीं हैं",
     "keyed": "minus",
     "domain": "N",
     "facet": 2
   },
   {
     "id": "9a47184f-6046-4e68-a61b-3d9b357b86ea",
-    "text": "Avoid crowds",
+    "text": "भीड़ से बचते हैं",
     "keyed": "minus",
     "domain": "E",
     "facet": 2
   },
   {
     "id": "87c5b27e-59a8-4c48-8ba8-f5413d735693",
-    "text": "Do not enjoy going to art museums",
+    "text": "कला संग्रहालयों में जाने में आनंद नहीं आता है",
     "keyed": "minus",
     "domain": "O",
     "facet": 2
   },
   {
     "id": "11b20adb-abed-4363-894c-3dd823ae0540",
-    "text": "Obstruct others' plans",
+    "text": "दूसरों की योजनाओं में बाधा डालते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
   },
   {
     "id": "50418d86-712c-45d9-adc4-ea0231c93cf5",
-    "text": "Leave my belongings around",
+    "text": "अपना सामन यहाँ वहां छोड़ देते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
   },
   {
     "id": "f40e421f-6c24-4be2-bd9f-28d33358d8c6",
-    "text": "Feel comfortable with myself",
+    "text": "खुद से सहज महसूस करते हैं",
     "keyed": "minus",
     "domain": "N",
     "facet": 3
   },
   {
     "id": "8791f37b-686f-47c3-9db7-74c009951321",
-    "text": "Wait for others to lead the way",
+    "text": "प्रतीक्षा करते हैं की दूसरे नेतृत्व करें",
     "keyed": "minus",
     "domain": "E",
     "facet": 3
   },
   {
     "id": "4fd25155-9cc2-4cd6-8852-3e0ca2d5e95d",
-    "text": "Don't understand people who get emotional",
+    "text": "समझ नहीं आता की लोग भावुक क्यों हो जाते हैं",
     "keyed": "minus",
     "domain": "O",
     "facet": 3
   },
   {
     "id": "b68af20d-24f9-4c27-85cc-fe0858994888",
-    "text": "Take no time for others",
+    "text": "दूसरों के लिए समय नहीं निकालते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 3
   },
   {
     "id": "54423933-0ebb-44a7-bdd9-2a9b100c70f2",
-    "text": "Break my promises",
+    "text": "अपने वादे तोड़ते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 3
   },
   {
     "id": "7317848c-3e1b-422f-bb16-02efc504f677",
-    "text": "Am not bothered by difficult social situations",
+    "text": "कठिन सामाजिक परिस्थितियों से परेशान नहीं होते हैं",
     "keyed": "minus",
     "domain": "N",
     "facet": 4
   },
   {
     "id": "7d93e1ca-46e8-4a30-9623-42a80c9b420c",
-    "text": "Like to take it easy",
+    "text": "जीवन को आराम से जीना पसंद है",
     "keyed": "minus",
     "domain": "E",
     "facet": 4
   },
   {
     "id": "a7f43928-8982-4ed5-8656-7a80346fe979",
-    "text": "Am attached to conventional ways",
+    "text": "पारंपरिक तरीकों से जुड़े हैं",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
   },
   {
     "id": "17910a55-a64a-4ed0-8b46-293e2fa2fe03",
-    "text": "Get back at others",
+    "text": "दूसरों से बदला लेते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 4
   },
   {
     "id": "3890bb43-2695-4b8d-b289-ee10d11cc884",
-    "text": "Put little time and effort into my work",
+    "text": "अपने काम में अल्प समय एवं प्रयास लगते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
   },
   {
     "id": "49a85680-53aa-4208-86b5-dccc7a6f8e37",
-    "text": "Am able to control my cravings",
+    "text": "अपनी तृष्णा को नियंत्रित करने में सक्षम हैं",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
   },
   {
     "id": "10f90fa9-649c-4631-ac4c-3dd3f751597d",
-    "text": "Act wild and crazy",
+    "text": "जंगली और पागलों सा व्यवहार करते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
   },
   {
     "id": "b86de003-c3c4-4cc8-9385-5ac8a0142c34",
-    "text": "Am not interested in theoretical discussions",
+    "text": "सैद्धांतिक चर्चा में दिलचस्पी नहीं है",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
   },
   {
     "id": "80c1d149-7050-481a-9953-aefb441642e7",
-    "text": "Boast about my virtues",
+    "text": "अपने गुणों के बारे में डींग हांकते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
   },
   {
     "id": "51403620-968c-42fa-a772-65ba5ad8396f",
-    "text": "Have difficulty starting tasks",
+    "text": "कार्यों को प्रारम्भ करने में कठिनाई होती है",
     "keyed": "minus",
     "domain": "C",
     "facet": 5
   },
   {
     "id": "88a3c2fe-3aa4-4f46-9322-da656332268a",
-    "text": "Remain calm under pressure",
+    "text": "दबाव में स्थिर रहते हैं",
     "keyed": "minus",
     "domain": "N",
     "facet": 6
   },
   {
     "id": "e7b31bdc-5f6b-40ec-ba91-f5919b0f170e",
-    "text": "Look at the bright side of life",
+    "text": "जीवन के उज्ज्वल पक्ष को देखते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 6
   },
   {
     "id": "580b08d1-3c94-46e9-9d07-d6d80c698127",
-    "text": "Believe that we should be tough on crime",
+    "text": "मानते हैं की हमें अपराधों पर कठोर होना चाहिए",
     "keyed": "minus",
     "domain": "O",
     "facet": 6
   },
   {
     "id": "48bee420-60c0-45cd-be43-3893dbc1969a",
-    "text": "Try not to think about the needy",
+    "text": "कोशिश करते हैं कि जरूरतमंदों के बारे में न सोचें",
     "keyed": "minus",
     "domain": "A",
     "facet": 6
   },
   {
     "id": "ea3327ea-3529-4be4-8e2d-2174731ae4d7",
-    "text": "Act without thinking",
+    "text": "बिना सोचे-समझे कार्य करते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
