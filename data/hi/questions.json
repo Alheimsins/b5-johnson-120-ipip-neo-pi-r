@@ -176,147 +176,147 @@
   },
   {
     "id": "2f519935-92e8-48ad-9746-4a0f8b38466a",
-    "text": "Panic easily",
+    "text": "आसानी से चिंतित होते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
   },
   {
     "id": "899c3f66-51d0-46ea-963a-6fc36d3b3cb9",
-    "text": "Radiate joy",
+    "text": "उत्साह संचारित करते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 6
   },
   {
     "id": "79186f48-e7fa-4df4-b74b-b0627ee244e1",
-    "text": "Tend to vote for liberal political candidates",
+    "text": "उदार राजनीतिक उम्मीदवारों के लिए वोट करते हैं",
     "keyed": "plus",
     "domain": "O",
     "facet": 6
   },
   {
     "id": "fd50e1ca-d9e0-4037-a7a1-a191d4db2d96",
-    "text": "Sympathize with the homeless",
+    "text": "बेघरों से सहानुभूति रखते हैं",
     "keyed": "plus",
     "domain": "A",
     "facet": 6
   },
   {
     "id": "bd9eec0a-b68b-472c-8803-7db29c308cdb",
-    "text": "Jump into things without thinking",
+    "text": "बिना सोचे समझे चीजों में कूदते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
   },
   {
     "id": "7f92ab2c-265c-4b84-8c74-09f9bb9d41a7",
-    "text": "Fear for the worst",
+    "text": "सबसे बुरे के लिए डरते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
   },
   {
     "id": "af55f014-788c-4b6e-92c4-b2b59dc8a28d",
-    "text": "Feel comfortable around people",
+    "text": "लोगों के आसपास सहज महसूस करते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 1
   },
   {
     "id": "08ff6dca-02a5-4aeb-aaa4-2ecf2526f143",
-    "text": "Enjoy wild flights of fantasy",
+    "text": "कल्पना की जंगली उड़ानों का आनंद लेते हैं",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
   },
   {
     "id": "6f66cdc0-9044-457b-b40d-501ecae15ee7",
-    "text": "Believe that others have good intentions",
+    "text": "मानते हैं की दूसरे व्यक्ति अच्छे इरादे रखते हैं",
     "keyed": "plus",
     "domain": "A",
     "facet": 1
   },
   {
     "id": "f110fc66-2e9e-413c-920b-19f05e63d7ac",
-    "text": "Excel in what I do",
+    "text": "अपने कार्य में श्रेष्ठ हैं",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
   },
   {
     "id": "7dab2a37-8635-4fc7-86b7-0abf13c183c9",
-    "text": "Get irritated easily",
+    "text": "आसानी से चिढ़ जाते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
   },
   {
     "id": "28ab59a0-e7cd-4fce-94e3-bba2ecc023b6",
-    "text": "Talk to a lot of different people at parties",
+    "text": "पार्टियों में बहुत से अलग-अलग लोगों से बात करते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 2
   },
   {
     "id": "b5919f2f-cded-4745-a9ce-c02703cee807",
-    "text": "See beauty in things that others might not notice",
+    "text": "चीज़ों में सुंदरता देखते हैं, जो दूसरे नहीं देख पाते हैं",
     "keyed": "plus",
     "domain": "O",
     "facet": 2
   },
   {
     "id": "5a5fa975-d024-4ac8-8845-2823f957c21b",
-    "text": "Cheat to get ahead",
+    "text": "आगे बढ़ने के लिए छल करते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
   },
   {
     "id": "adf33f9f-45bd-43e3-af25-4c491176d97f",
-    "text": "Often forget to put things back in their proper place",
+    "text": "अक्सर चीजों को उनकी उचित जगह पर वापस रखना भूल जाते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
   },
   {
     "id": "f0a14e16-d726-47e9-a2c1-647fd3d7d52e",
-    "text": "Dislike myself",
+    "text": "खुद से घृणा करते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 3
   },
   {
     "id": "0b38e3d3-c15c-454c-b034-f4eb7ae1580a",
-    "text": "Try to lead others",
+    "text": "दूसरों का नेतृत्व करने की कोशिश करते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 3
   },
   {
     "id": "5631b856-ff34-4f76-a0cd-edc7104c3bfa",
-    "text": "Feel others' emotions",
+    "text": "दूसरों की भावनाओं को महसूस करते हैं",
     "keyed": "plus",
     "domain": "O",
     "facet": 3
   },
   {
     "id": "ada867af-4db1-4e3d-a604-2b695c1806e5",
-    "text": "Am concerned about others",
+    "text": "दूसरों के बारे में चिंतित रहते हैं",
     "keyed": "plus",
     "domain": "A",
     "facet": 3
   },
   {
     "id": "c55e3958-00c4-4fc3-9118-47d8f31bfde1",
-    "text": "Tell the truth",
+    "text": "सत्य कहते हैं",
     "keyed": "plus",
     "domain": "C",
     "facet": 3
   },
   {
     "id": "acd8fadc-5399-4a67-b5ff-9d1ada049c01",
-    "text": "Am afraid to draw attention to myself",
+    "text": "खुद पर ध्यान आकर्षित करने से डरते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 4
@@ -330,224 +330,224 @@
   },
   {
     "id": "33b81fd0-7e32-4cd8-a13a-d5f5f754f998",
-    "text": "Prefer to stick with things that I know",
+    "text": "जिन चीज़ो के बारे में जानते हैं उन्ही पर स्थिर रहते हैं",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
   },
   {
     "id": "d9a9a180-29c9-4ec5-8621-2256d411def7",
-    "text": "Yell at people",
+    "text": "लोगों पर चिल्लाते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 4
   },
   {
     "id": "f12c3d9d-1d12-4aa6-ad2e-009cd0651cbb",
-    "text": "Do more than what's expected of me",
+    "text": "अपेक्षा से अधिक करते हैं",
     "keyed": "plus",
     "domain": "C",
     "facet": 4
   },
   {
     "id": "9891b7ba-a494-4307-aafe-301d8db506c6",
-    "text": "Rarely overindulge",
+    "text": "कदाचित ही अति लिप्त होते हैं",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
   },
   {
     "id": "f1675af6-88bf-4376-a946-0281e762b39c",
-    "text": "Seek adventure",
+    "text": "रोमांच खोजते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
   },
   {
     "id": "95a3f20c-f933-4d19-a2c1-a7dbdf63c562",
-    "text": "Avoid philosophical discussions",
+    "text": "दार्शनिक चर्चा से बचते हैं",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
   },
   {
     "id": "7df44711-4cd4-4b05-8830-73fcc3ebdab5",
-    "text": "Think highly of myself",
+    "text": "अपने आप को श्रेष्ठ मानते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
   },
   {
     "id": "9d3cb5c7-955c-43a4-b6c7-b07ed01dcbd9",
-    "text": "Carry out my plans",
+    "text": "योजनाओं को पूरा करते हैं",
     "keyed": "plus",
     "domain": "C",
     "facet": 5
   },
   {
     "id": "13c58810-3864-42ba-aa87-d4166f858756",
-    "text": "Become overwhelmed by events",
+    "text": "घटनाओं से अभिभूत हो जाते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
   },
   {
     "id": "961376e0-16a1-4c14-b059-789e63d11b63",
-    "text": "Have a lot of fun",
+    "text": "ख़ूब मज़ा करते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 6
   },
   {
     "id": "f08e1b27-3673-4898-9cae-896482d0d9f9",
-    "text": "Believe that there is no absolute right and wrong",
+    "text": "मानते हैं की कुछ भी पूर्णतः सही या गलत नहीं होता है",
     "keyed": "plus",
     "domain": "O",
     "facet": 6
   },
   {
     "id": "c2038c12-7a37-47a8-9983-831bd6692aab",
-    "text": "Feel sympathy for those who are worse off than myself",
+    "text": "उन लोगों के लिए सहानुभूति महसूस करते हैं, जो आपसे भी बदतर हैं",
     "keyed": "plus",
     "domain": "A",
     "facet": 6
   },
   {
     "id": "956f3e17-ff17-4af5-a52f-9222b8968106",
-    "text": "Make rash decisions",
+    "text": "जल्दबाजी में निर्णय लेते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
   },
   {
     "id": "4d81238b-5407-47d4-88e5-dc0e38aa14f5",
-    "text": "Am afraid of many things",
+    "text": "बहुत सी चीजों से डरते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
   },
   {
     "id": "9f9166f0-fa94-4c14-a91d-3eecd8395794",
-    "text": "Avoid contacts with others",
+    "text": "दूसरों के साथ संपर्क से बचते हैं",
     "keyed": "minus",
     "domain": "E",
     "facet": 1
   },
   {
     "id": "23a1034f-fab7-4887-a66e-5ef4eaafb25e",
-    "text": "Love to daydream",
+    "text": "दिवास्वप्न से प्यार है",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
   },
   {
     "id": "c63e6121-c3ed-40cc-abc2-c1e6ea1e0858",
-    "text": "Trust what people say",
+    "text": "लोगों के कथनों पर विश्वासव करते हैं",
     "keyed": "plus",
     "domain": "A",
     "facet": 1
   },
   {
     "id": "02ee1930-36a7-4caa-b10c-c93efb682a44",
-    "text": "Handle tasks smoothly",
+    "text": "कार्यों को सुचारू रूप से संभालते हैं",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
   },
   {
     "id": "da8e6ed1-2296-4c58-8fdb-66f2f591989b",
-    "text": "Lose my temper",
+    "text": "अपना आप खो देते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
   },
   {
     "id": "03c10b30-b88f-4c63-8acc-71251ca24615",
-    "text": "Prefer to be alone",
+    "text": "अकेले रहना पसंद करते हैं",
     "keyed": "minus",
     "domain": "E",
     "facet": 2
   },
   {
     "id": "751a04bc-5adf-485a-8ea4-4308406ae85b",
-    "text": "Do not like poetry",
+    "text": "कविताएँ पसंद नहीं है",
     "keyed": "minus",
     "domain": "O",
     "facet": 2
   },
   {
     "id": "982e83c2-d34e-48da-9c71-78494ab05c85",
-    "text": "Take advantage of others",
+    "text": "दूसरों का लाभ उठाते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
   },
   {
     "id": "f4891687-0ff0-47af-a4f6-d1202c8f6676",
-    "text": "Leave a mess in my room",
+    "text": "मेरे कमरे को गन्दा छोड़ देते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
   },
   {
     "id": "743d8973-1de1-4485-91b4-8a5cf63e7d44",
-    "text": "Am often down in the dumps",
+    "text": "अक्सर अत्यंत उदास रहते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 3
   },
   {
     "id": "2452f034-8273-4f71-9122-a40f5ead31ba",
-    "text": "Take control of things",
+    "text": "चीजों पर नियंत्रण लेते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 3
   },
   {
     "id": "2a300001-6e05-4c79-b8b5-2ccae4c3d463",
-    "text": "Rarely notice my emotional reactions",
+    "text": "शायद ही कभी अपनी भावनात्मक प्रतिक्रियाओं पर ध्यान देते हैं",
     "keyed": "minus",
     "domain": "O",
     "facet": 3
   },
   {
     "id": "cd54bd76-ca9c-4030-b325-bb8d896bcb3f",
-    "text": "Am indifferent to the feelings of others",
+    "text": "दूसरों की भावनाओं के प्रति उदासीन रहते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 3
   },
   {
     "id": "4e6e3a34-176f-4e6e-8730-1341611f972b",
-    "text": "Break rules",
+    "text": "नियमों को तोड़ते हैं",
     "keyed": "minus",
     "domain": "C",
     "facet": 3
   },
   {
     "id": "20062533-a33d-4c1e-9cd9-bff868015b3f",
-    "text": "Only feel comfortable with friends",
+    "text": "केवल दोस्तों के साथ सहज महसूस करते हैं",
     "keyed": "plus",
     "domain": "N",
     "facet": 4
   },
   {
     "id": "b2a077d5-1fe0-4b06-ab63-35455e001e54",
-    "text": "Do a lot in my spare time",
+    "text": "अपने खाली समय में बहुत कुछ करते हैं",
     "keyed": "plus",
     "domain": "E",
     "facet": 4
   },
   {
     "id": "0d2e65ab-95d9-482f-beb4-3239a3a4944a",
-    "text": "Dislike changes",
+    "text": "परिवर्तन पसंद नहीं है",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
   },
   {
     "id": "0de0f900-cede-4538-9c00-5da4f830b028",
-    "text": "Insult people",
+    "text": "लोगों का अपमान करते हैं",
     "keyed": "minus",
     "domain": "A",
     "facet": 4
