@@ -49,7 +49,7 @@
   },
   "homepage": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r#readme",
   "devDependencies": {
-    "ava": "1.4.1",
+    "ava": "2.0.0",
     "coveralls": "3.0.3",
     "husky": "2.3.0",
     "nyc": "14.1.1",
