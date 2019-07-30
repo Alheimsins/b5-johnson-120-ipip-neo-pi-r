@@ -148,7 +148,7 @@
   },
   {
     "id": "987efee2-899f-4a65-b9b5-1589ef0460d7",
-    "text": "Amo la emocion",
+    "text": "Amo la emoción",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -169,7 +169,7 @@
   },
   {
     "id": "f6076eea-56ae-4b46-97f1-5f94a7676c96",
-    "text": "Siepre estoy preparado",
+    "text": "Siempre estoy preparado",
     "keyed": "plus",
     "domain": "C",
     "facet": 5
@@ -372,7 +372,7 @@
   },
   {
     "id": "7df44711-4cd4-4b05-8830-73fcc3ebdab5",
-    "text": "Espero mucho de mi mismo",
+    "text": "Espero mucho de mí mismo",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -428,14 +428,14 @@
   },
   {
     "id": "9f9166f0-fa94-4c14-a91d-3eecd8395794",
-    "text": "Amenudo evito el contacto con los demás",
+    "text": "A menudo evito el contacto con los demás",
     "keyed": "minus",
     "domain": "E",
     "facet": 1
   },
   {
     "id": "23a1034f-fab7-4887-a66e-5ef4eaafb25e",
-    "text": "Soy una persona que aveces sueña despierta",
+    "text": "Soy una persona que a veces sueña despierta",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -456,7 +456,7 @@
   },
   {
     "id": "da8e6ed1-2296-4c58-8fdb-66f2f591989b",
-    "text": "Aveces pierdo los estribos",
+    "text": "A veces pierdo los estribos",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
@@ -477,7 +477,7 @@
   },
   {
     "id": "982e83c2-d34e-48da-9c71-78494ab05c85",
-    "text": "Me aprovecio de los demás",
+    "text": "Me aprovecho de los demás",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
@@ -582,7 +582,7 @@
   },
   {
     "id": "1d686958-6fe7-432f-85e6-186b99e4e232",
-    "text": "Tengo altas expectativas de mi mismo",
+    "text": "Tengo altas expectativas de mí mismo",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -596,7 +596,7 @@
   },
   {
     "id": "b7e0e393-9b21-4e0d-adf3-8f28fb5b9d87",
-    "text": "Aveces siento que no soy capaz de manejar situaciones",
+    "text": "A veces siento que no soy capaz de manejar situaciones",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
@@ -659,7 +659,7 @@
   },
   {
     "id": "5727c93f-317b-4af1-a686-77fc9fbc5033",
-    "text": "Generalmente se como hacer las cosas",
+    "text": "Generalmente sé cómo hacer las cosas",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
@@ -764,7 +764,7 @@
   },
   {
     "id": "3890bb43-2695-4b8d-b289-ee10d11cc884",
-    "text": "Pongo poco tiempo y esfuerzo para mi trabajo",
+    "text": "Pongo poco tiempo y esfuerzo en mi trabajo",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
