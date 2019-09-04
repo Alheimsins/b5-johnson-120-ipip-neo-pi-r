@@ -190,7 +190,7 @@
   },
   {
     "id": "79186f48-e7fa-4df4-b74b-b0627ee244e1",
-    "text": "Tend to vote for liberal political candidates",
+    "text": "Tend to enjoy art pieces which include abstract and cubism design",
     "keyed": "plus",
     "domain": "O",
     "facet": 6
@@ -610,7 +610,7 @@
   },
   {
     "id": "96ba77b2-1a44-4dfd-95f9-ae4d1f714460",
-    "text": "Tend to vote for conservative political candidates",
+    "text": "Tend to enjoy art pieces such as classical paintings and unambiguous poems",
     "keyed": "minus",
     "domain": "O",
     "facet": 6
