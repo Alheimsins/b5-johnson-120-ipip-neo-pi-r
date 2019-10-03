@@ -16,7 +16,7 @@ module.exports.getItems = (lang = 'en', shuffle = false) => {
 
 module.exports.getInfo = () => (
   {
-    name: `Johnson's IPIP NEO-PI-R`,
+    name: 'Johnson\'s IPIP NEO-PI-R',
     id: 'johnson-120-ipip-neo-pi-r',
     shortId: 'b5-120',
     time: 10,
