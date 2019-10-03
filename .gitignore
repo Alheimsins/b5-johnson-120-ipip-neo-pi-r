@@ -1,5 +1,6 @@
 # IDE
 .idea
+.vs
 .vscode
 
 # Mac OS
@@ -63,7 +64,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
-# Lock files
-package-lock.json
-
