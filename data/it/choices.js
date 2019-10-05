@@ -11,7 +11,7 @@ module.exports = {
       color: 2
     },
     {
-      text: 'Nè in Accordo nè in Disaccordo',
+      text: 'Nè in accordo nè in disaccordo',
       score: 3,
       color: 3
     },
@@ -38,7 +38,7 @@ module.exports = {
       color: 2
     },
     {
-      text: 'Nè in Accordo nè in Disaccordo',
+      text: 'Nè in accordo nè in disaccordo',
       score: 3,
       color: 3
     },
