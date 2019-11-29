@@ -155,7 +155,7 @@
   },
   {
     "id": "e1e804c7-4a1d-498f-8610-f95147af9d1d",
-    "text": "Hou er van om uitdagende stukken te lezen",
+    "text": "Hou ervan om uitdagende stukken te lezen",
     "keyed": "plus",
     "domain": "O",
     "facet": 5
@@ -225,7 +225,7 @@
   },
   {
     "id": "08ff6dca-02a5-4aeb-aaa4-2ecf2526f143",
-    "text": "Geniet van ongebreidelde fantasiën",
+    "text": "Geniet van ongebreidelde fantasieën",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -554,7 +554,7 @@
   },
   {
     "id": "a9c97d6b-6721-4150-8d84-64ef3082f164",
-    "text": "Doe alleen het hoogst noodzakelijke",
+    "text": "Doe alleen het hoogstnoodzakelijke",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
@@ -568,7 +568,7 @@
   },
   {
     "id": "7dd6cf2d-5c14-48c2-8ae5-633a7a596c71",
-    "text": "Geniet er van om roekeloos te zijn",
+    "text": "Geniet ervan om roekeloos te zijn",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -631,7 +631,7 @@
   },
   {
     "id": "43b03992-3f32-4ed1-a6f8-5d6d3e7ed246",
-    "text": "Raak makkelijk gestresst",
+    "text": "Raak makkelijk gestrest",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
@@ -785,7 +785,7 @@
   },
   {
     "id": "b86de003-c3c4-4cc8-9385-5ac8a0142c34",
-    "text": "Ben niet geinteresseerd in theoretische discussies",
+    "text": "Ben niet geïnteresseerd in theoretische discussies",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
@@ -827,7 +827,7 @@
   },
   {
     "id": "48bee420-60c0-45cd-be43-3893dbc1969a",
-    "text": "Probeer niet aan huppbehoevenden te denken",
+    "text": "Probeer niet aan hulpbehoevenden te denken",
     "keyed": "minus",
     "domain": "A",
     "facet": 6
