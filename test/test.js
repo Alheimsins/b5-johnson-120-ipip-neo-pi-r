@@ -40,7 +40,7 @@ test('it throws error for lang xx', t => {
 })
 
 test('validation of question ids across languages', t => {
-  const { languages } = getInfo()
+  const languages = getInfo().languages.map(({ id }) => id)
   if (languages.length <= 1) t.pass()
   const questions = languages.map(getItems)
   const ids = questions.map(qs => qs.map(q => q.id))
@@ -74,6 +74,6 @@ test('random inventory items', t => {
 })
 
 test('test all languages', t => {
-  const languages = getInfo().languages
-  languages.map(language => t.truthy(getItems(language, false), `${language} items ok`))
+  const { languages } = getInfo()
+  languages.map(({ id }) => t.truthy(getItems(id, false), `${id} items ok`))
 })
