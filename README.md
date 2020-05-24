@@ -92,7 +92,9 @@ returns an [array with questions and choices](examples/items-en.json)
 | fi   | Finnish   | [Anastasia Tapper](https://github.com/ankkukku) |
 | id   | Indonesian| [David Adi Nugroho](https://github.com/lakuapik) |
 | hi   | Hindi     | [Punit Singh](https://github.com/thepunitsingh) |
-| uk   | Ukrainian | [Elena Kunina](https://github.com/Menolas)
+| uk   | Ukrainian | [Elena Kunina](https://github.com/Menolas) |
+| ar   | Arabic    | [Rayan](https://twitter.com/psyche_ar) |
+
 
 ## Help wanted
 

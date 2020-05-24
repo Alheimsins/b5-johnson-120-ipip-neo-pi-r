@@ -1,7 +1,7 @@
 {
   "name": "@alheimsins/b5-johnson-120-ipip-neo-pi-r",
   "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -20,7 +20,7 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">=12.16.1"
+    "node": ">=10"
   },
   "files": [
     "data/",
