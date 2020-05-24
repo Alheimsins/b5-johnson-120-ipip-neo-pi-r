@@ -93,7 +93,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | id   | Indonesian| [David Adi Nugroho](https://github.com/lakuapik) |
 | hi   | Hindi     | [Punit Singh](https://github.com/thepunitsingh) |
 | uk   | Ukrainian | [Elena Kunina](https://github.com/Menolas) |
-| ar   | Arabic    | [Rayan](https://twitter.com/psyche_ar) |
+| ar   | Arabic    | Rayan Khan |
 
 
 ## Help wanted
