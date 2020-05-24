@@ -11,7 +11,7 @@ module.exports = {
       color: 2
     },
     {
-      text: 'لا دقيق ولا غير دقيق',
+      text: 'ليس دقيق ولا غير دقيق',
       score: 3,
       color: 3
     },
@@ -21,7 +21,7 @@ module.exports = {
       color: 4
     },
     {
-      text: 'دقيق جدا',
+      text: 'دقيق للغاية',
       score: 5,
       color: 5
     }
@@ -38,7 +38,7 @@ module.exports = {
       color: 2
     },
     {
-      text: 'لا دقيق ولا غير دقيق',
+      text: 'ليس دقيق ولا غير دقيق',
       score: 3,
       color: 3
     },
@@ -48,7 +48,7 @@ module.exports = {
       color: 4
     },
     {
-      text: 'دقيق جدا',
+      text: 'دقيق للغاية',
       score: 1,
       color: 5
     }
