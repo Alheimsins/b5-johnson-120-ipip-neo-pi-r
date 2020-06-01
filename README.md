@@ -94,6 +94,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | hi   | Hindi     | [Punit Singh](https://github.com/thepunitsingh) |
 | uk   | Ukrainian | [Elena Kunina](https://github.com/Menolas) |
 | ar   | Arabic    | Rayan Khan |
+| he   | Hebew     | Ben Perry |
 
 
 ## Help wanted

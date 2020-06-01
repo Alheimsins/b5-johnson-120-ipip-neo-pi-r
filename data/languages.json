@@ -90,5 +90,9 @@
   {
     "id": "ar",
     "text": "Arabic"
+  },
+  {
+    "id": "he",
+    "text": "Hebrew"
   }
 ]
