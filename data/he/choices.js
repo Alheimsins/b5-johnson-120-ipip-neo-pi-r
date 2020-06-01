@@ -1,54 +1,54 @@
 module.exports = {
   plus: [
     {
-      text: 'Very Inaccurate',
+      text: 'מאוד לא מדוייק',
       score: 1,
       color: 1
     },
     {
-      text: 'Moderately Inaccurate',
+      text: 'לא מדוייק',
       score: 2,
       color: 2
     },
     {
-      text: 'Neither Accurate Nor Inaccurate',
+      text: 'נייטרלי',
       score: 3,
       color: 3
     },
     {
-      text: 'Moderately Accurate',
+      text: 'מדוייק במידה סבירה',
       score: 4,
       color: 4
     },
     {
-      text: 'Very Accurate',
+      text: 'מאוד מדוייק',
       score: 5,
       color: 5
     }
   ],
   minus: [
     {
-      text: 'Very Inaccurate',
+      text: 'מאוד לא מדוייק',
       score: 5,
       color: 1
     },
     {
-      text: 'Moderately Inaccurate',
+      text: 'לא מדוייק',
       score: 4,
       color: 2
     },
     {
-      text: 'Neither Accurate Nor Inaccurate',
+      text: 'נייטרלי',
       score: 3,
       color: 3
     },
     {
-      text: 'Moderately Accurate',
+      text: 'מדוייק במידה סבירה',
       score: 2,
       color: 4
     },
     {
-      text: 'Very Accurate',
+      text: 'מאוד מדוייק',
       score: 1,
       color: 5
     }
