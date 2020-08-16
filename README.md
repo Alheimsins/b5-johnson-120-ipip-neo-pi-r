@@ -121,6 +121,6 @@ If you want to help by translating the items to other languages this is how you 
 
 ## About
 
-Created with <3 by [Alheimsins](https://github.com/Alheimsins)
+Created with ❤ for [Alheimsins](https://alheimsins.net)
 
-![Alheimsins symbol](https://file-qwoleuymtm.now.sh "Alheimsins symbol")
+<img src="https://image.ibb.co/dPH08G/logo_black.png" alt="Alheimsins logo" height="150px" width="150px" />
