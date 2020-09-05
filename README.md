@@ -103,8 +103,9 @@ returns an [array with questions and choices](examples/items-en.json)
 
 ## Help wanted
 
-If you want to help by translating the items to other languages this is how you do it.
+If you want to help by translating the items to other languages there are two ways to do it.
 
+### Tranlate on GitHub
 - clone the repo
 - find a language you know in [data](data)
 - duplicate the folder and rename it to the language you will translate
@@ -113,6 +114,11 @@ If you want to help by translating the items to other languages this is how you 
 - don't change filenames, ids or any other properties
 - add your language code to the [data/languages.json file](data/languages.json)
 - submit pull request
+- happiness :-)
+
+### Translate from the web
+- visit [b5.translations.alheimsins.net](https://b5.translations.alheimsins.net/b5-johnson-120-ipip-neo-pi-r)
+- follow the instructions
 - happiness :-)
 
 ## Related
