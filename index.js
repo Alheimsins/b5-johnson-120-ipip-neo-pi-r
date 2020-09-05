@@ -25,3 +25,13 @@ module.exports.getInfo = () => (
     languages
   }
 )
+
+module.exports.getChoices = (lang = 'en') => {
+  let choices
+  try {
+    choices = require(`./data/${lang}/choices`)
+  } catch (error) {
+    throw new Error('Choices not found. Try another language input.')
+  }
+  return choices
+}

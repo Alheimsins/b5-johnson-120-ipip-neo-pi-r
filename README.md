@@ -15,7 +15,7 @@ $ npm i @alheimsins/b5-johnson-120-ipip-neo-pi-r
 ## Usage
 
 ```JavaScript
-const { getItems, getInfo } = require('@alheimsins/b5-johnson-120-ipip-neo-pi-r')
+const { getItems, getInfo, getChoices } = require('@alheimsins/b5-johnson-120-ipip-neo-pi-r')
 
 console.log(getItems()) // returns English
 
@@ -24,6 +24,8 @@ console.log(getItems('no')) // returns Norwegian
 console.log(getItems('en', true)) // returns English shuffeled
 
 console.log(getInfo()) // returns test info
+
+console.log(getChoices()) // returns choices in English
 ```
 
 returns an [array with questions and choices](examples/items-en.json)
