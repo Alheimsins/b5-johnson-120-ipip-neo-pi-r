@@ -17,17 +17,17 @@ $ npm i @alheimsins/b5-johnson-120-ipip-neo-pi-r
 ```JavaScript
 const { getItems, getInfo, getChoices, getQuestions } = require('@alheimsins/b5-johnson-120-ipip-neo-pi-r')
 
-console.log(getItems()) // returns English
-
-console.log(getItems('no')) // returns Norwegian
-
-console.log(getItems('en', true)) // returns English shuffeled
-
 console.log(getInfo()) // returns test info
 
 console.log(getChoices()) // returns choices in English
 
 console.log(getQuestions()) // returns questions in English
+
+console.log(getItems()) // returns English
+
+console.log(getItems('no')) // returns Norwegian
+
+console.log(getItems('en', true)) // returns English shuffeled
 ```
 
 returns an [array with questions and choices](examples/items-en.json)
@@ -117,7 +117,7 @@ If you want to help by translating the items to other languages this is how you 
 
 ## Related
 
-- [bigfive-web](https://github.com/maccyber/bigfive-web) Web frontend for bigfive tests
+- [bigfive-web](https://github.com/rubynor/bigfive-web) Web frontend for bigfive tests
 
 ## License
 
