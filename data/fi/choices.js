@@ -1,17 +1,17 @@
 module.exports = {
   plus: [
     {
-      text: 'Ei pidä lainkaan paikkansa',
+      text: 'Ei pidä lainkaan paikkaansa',
       score: 1,
       color: 1
     },
     {
-      text: 'Ei pidä juurikaan paikkansa',
+      text: 'Ei pidä juurikaan paikkaansa',
       score: 2,
       color: 2
     },
     {
-      text: 'Pitää osittain paikkainsa, osittain ei',
+      text: 'Pitää osittain paikkansa, osittain ei',
       score: 3,
       color: 3
     },
@@ -28,17 +28,17 @@ module.exports = {
   ],
   minus: [
     {
-      text: 'Ei pidä lainkaan paikkansa',
+      text: 'Ei pidä lainkaan paikkaansa',
       score: 5,
       color: 1
     },
     {
-      text: 'Ei pidä juurikaan paikkansa',
+      text: 'Ei pidä juurikaan paikkaansa',
       score: 4,
       color: 2
     },
     {
-      text: 'Pitää osittain paikkainsa, osittain ei',
+      text: 'Pitää osittain paikkansa, osittain ei',
       score: 3,
       color: 3
     },

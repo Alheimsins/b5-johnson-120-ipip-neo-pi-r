@@ -120,7 +120,7 @@
   },
   {
     "id": "cae55842-8957-4e3b-83b3-ceff98fb9dcf",
-    "text": "Pidän enemmän vaihtelusta kuin rutiinin",
+    "text": "Pidän enemmän vaihtelusta kuin rutiinista",
     "keyed": "plus",
     "domain": "O",
     "facet": 4
@@ -316,7 +316,7 @@
   },
   {
     "id": "acd8fadc-5399-4a67-b5ff-9d1ada049c01",
-    "text": "Pelkään kiinnittää muiden huomion minuun",
+    "text": "Pelkään kiinnittää muiden huomion itseeni",
     "keyed": "plus",
     "domain": "N",
     "facet": 4
@@ -645,7 +645,7 @@
   },
   {
     "id": "935a7413-abac-4f54-9169-d1fbd39da752",
-    "text": "Pidän ajatukseeni hukkumisesta",
+    "text": "Pidän ajatuksiini hukkumisesta",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -659,7 +659,7 @@
   },
   {
     "id": "5727c93f-317b-4af1-a686-77fc9fbc5033",
-    "text": "Tiedän kuika saada asioita tehtyä",
+    "text": "Tiedän kuinka saada asioita tehtyä",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
