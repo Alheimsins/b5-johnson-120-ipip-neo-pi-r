@@ -1,6 +1,18 @@
 const { knuthShuffle } = require('knuth-shuffle')
 const languages = require('./data/languages.json')
 
+function languageSort (a, b) {
+  if (a.text < b.text) {
+    return -1
+  }
+  if (a.text > b.text) {
+    return 1
+  }
+  return 0
+}
+
+languages.sort(languageSort)
+
 module.exports.getItems = (lang = 'en', shuffle = false) => {
   let choices, questions
   try {
