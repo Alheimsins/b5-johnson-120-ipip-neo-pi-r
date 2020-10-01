@@ -15,7 +15,7 @@
   },
   {
     "id": "888dd864-7449-4e96-8d5c-7a439603ea91",
-    "text": "Memiliki imajinasi yang jelas",
+    "text": "Memiliki khayalan yang menyala jelas",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -43,14 +43,14 @@
   },
   {
     "id": "458f3957-2359-4077-ade1-34525d633063",
-    "text": "Suka pesta besar",
+    "text": "Suka berpesta besar",
     "keyed": "plus",
     "domain": "E",
     "facet": 2
   },
   {
     "id": "58d571e5-d725-4cf8-a438-32c16ee28eb6",
-    "text": "Percaya pentingnya sebuah seni",
+    "text": "Percaya pada pentingnya seni",
     "keyed": "plus",
     "domain": "O",
     "facet": 2
@@ -78,7 +78,7 @@
   },
   {
     "id": "8af754f2-68e9-48f3-8c5d-2e6633d4472c",
-    "text": "Bertanggunjawab",
+    "text": "Bertanggung jawab",
     "keyed": "plus",
     "domain": "E",
     "facet": 3
@@ -127,7 +127,7 @@
   },
   {
     "id": "e2028ad3-b128-4f76-be57-398bfe2aff22",
-    "text": "Suka perdebatan yang bagus",
+    "text": "Suka perkelahian yang seru",
     "keyed": "minus",
     "domain": "A",
     "facet": 4
@@ -148,7 +148,7 @@
   },
   {
     "id": "987efee2-899f-4a65-b9b5-1589ef0460d7",
-    "text": "Suka rasa ketertarikan",
+    "text": "Suka rasa bersemangat",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -211,7 +211,7 @@
   },
   {
     "id": "7f92ab2c-265c-4b84-8c74-09f9bb9d41a7",
-    "text": "Takut untuk kejadian terburuk",
+    "text": "Takut dengan kejadian terburuk",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
@@ -225,14 +225,14 @@
   },
   {
     "id": "08ff6dca-02a5-4aeb-aaa4-2ecf2526f143",
-    "text": "Menikmati penjelajahan fantasi liar",
+    "text": "Menikmati khayalan yang liar",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
   },
   {
     "id": "6f66cdc0-9044-457b-b40d-501ecae15ee7",
-    "text": "Percayalah bahwa orang lain memiliki niat baik",
+    "text": "Percaya bahwa orang lain memiliki niat baik",
     "keyed": "plus",
     "domain": "A",
     "facet": 1
@@ -302,7 +302,7 @@
   },
   {
     "id": "ada867af-4db1-4e3d-a604-2b695c1806e5",
-    "text": "Saya merisaukan orang lain",
+    "text": "Saya mengkhawatirkan orang lain",
     "keyed": "plus",
     "domain": "A",
     "facet": 3
@@ -386,7 +386,7 @@
   },
   {
     "id": "13c58810-3864-42ba-aa87-d4166f858756",
-    "text": "Menjadi kewalahan karena kejadian-kejadian",
+    "text": "Menjadi kewalahan karena banyak peristiwa",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
@@ -407,7 +407,7 @@
   },
   {
     "id": "c2038c12-7a37-47a8-9983-831bd6692aab",
-    "text": "Merasa simpati kepada meraka yang lebih buruk dari saya",
+    "text": "Merasa bersimpati kepada mereka yang lebih malang dari saya",
     "keyed": "plus",
     "domain": "A",
     "facet": 6
@@ -505,14 +505,14 @@
   },
   {
     "id": "2a300001-6e05-4c79-b8b5-2ccae4c3d463",
-    "text": "Jarang memperhatikan reaksi perasaan saya",
+    "text": "Jarang memperhatikan perasaan saya sendiri",
     "keyed": "minus",
     "domain": "O",
     "facet": 3
   },
   {
     "id": "cd54bd76-ca9c-4030-b325-bb8d896bcb3f",
-    "text": "Saya acuh terhadap perasaan orang lain",
+    "text": "Saya masa bodoh dengan perasaan orang lain",
     "keyed": "minus",
     "domain": "A",
     "facet": 3
@@ -568,7 +568,7 @@
   },
   {
     "id": "7dd6cf2d-5c14-48c2-8ae5-633a7a596c71",
-    "text": "Nikmati menjadi sembrono",
+    "text": "Suka ugal-ugalan/sembrono",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -582,7 +582,7 @@
   },
   {
     "id": "1d686958-6fe7-432f-85e6-186b99e4e232",
-    "text": "Punya pendapat yang tinggi tentang diriku sendiri",
+    "text": "Punya pandangan yang tinggi tentang diri sendiri",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -645,7 +645,7 @@
   },
   {
     "id": "935a7413-abac-4f54-9169-d1fbd39da752",
-    "text": "Suka tersesat dalam pikiran",
+    "text": "Suka tenggelam dalam pikiran",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -694,7 +694,7 @@
   },
   {
     "id": "50418d86-712c-45d9-adc4-ea0231c93cf5",
-    "text": "Meninggalkan barang-barangku disekitar",
+    "text": "Meninggalkan barang-barangku di sekitar",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
@@ -736,7 +736,7 @@
   },
   {
     "id": "7317848c-3e1b-422f-bb16-02efc504f677",
-    "text": "Saya tidak terganggu oleh situasi sosial yang sulit",
+    "text": "Saya tidak terganggu oleh situasi sosial yang menyusahkan",
     "keyed": "minus",
     "domain": "N",
     "facet": 4
@@ -750,7 +750,7 @@
   },
   {
     "id": "a7f43928-8982-4ed5-8656-7a80346fe979",
-    "text": "Saya terikat dengan cara-cara konvensional",
+    "text": "Saya terikat dengan cara pandang konvensional",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
