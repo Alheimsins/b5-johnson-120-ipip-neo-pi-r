@@ -99,6 +99,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | uk   | Ukrainian | [Elena Kunina](https://github.com/Menolas) |
 | ar   | Arabic    | Rayan Khan |
 | he   | Hebew     | Ben Perry |
+| pl   | Polish    | Maryla Królikowska |
 
 
 ## Help wanted
