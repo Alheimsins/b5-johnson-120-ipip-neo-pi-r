@@ -8,7 +8,7 @@
   },
   {
     "id": "d50a597f-632b-4f7b-89e6-6d85b50fd1c9",
-    "text": "Łatwo znajduję przyjaciół",
+    "text": "Łatwo nawiązuję znajomości",
     "keyed": "plus",
     "domain": "E",
     "facet": 1
@@ -50,7 +50,7 @@
   },
   {
     "id": "58d571e5-d725-4cf8-a438-32c16ee28eb6",
-    "text": "Sztuka jest ważna",
+    "text": "Wierzę w znaczenie sztuki",
     "keyed": "plus",
     "domain": "O",
     "facet": 2
@@ -71,7 +71,7 @@
   },
   {
     "id": "5e8550d7-b8ef-4905-950a-f81d735d39e2",
-    "text": "Często jestem przygnębiony",
+    "text": "Często czuję się przygnębiony",
     "keyed": "plus",
     "domain": "N",
     "facet": 3
@@ -92,7 +92,7 @@
   },
   {
     "id": "ccf3a5c8-fb50-4bd4-8e7a-22af3d657279",
-    "text": "Uwielbiam pomagać innym",
+    "text": "Kocham pomagać innym",
     "keyed": "plus",
     "domain": "A",
     "facet": 3
@@ -127,7 +127,7 @@
   },
   {
     "id": "e2028ad3-b128-4f76-be57-398bfe2aff22",
-    "text": "Kocham się kłócić",
+    "text": "Uwielbiam się kłócić",
     "keyed": "minus",
     "domain": "A",
     "facet": 4
@@ -141,7 +141,7 @@
   },
   {
     "id": "481efd08-c810-43b1-a952-f8ac9052f96b",
-    "text": "Daję się ponieść",
+    "text": "Brak mi umiaru w niektórych czynnościach (nie umiem przestać oglądać serialu, pić alkoholu itp.)",
     "keyed": "plus",
     "domain": "N",
     "facet": 5
@@ -155,7 +155,7 @@
   },
   {
     "id": "e1e804c7-4a1d-498f-8610-f95147af9d1d",
-    "text": "Kocham czytać wymagające teksty",
+    "text": "Lubię czytać wymagające teksty",
     "keyed": "plus",
     "domain": "O",
     "facet": 5
@@ -204,7 +204,7 @@
   },
   {
     "id": "bd9eec0a-b68b-472c-8803-7db29c308cdb",
-    "text": "Robię rzeczy bez namysłu",
+    "text": "Podejmuję się działania bez namysłu",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -218,7 +218,7 @@
   },
   {
     "id": "af55f014-788c-4b6e-92c4-b2b59dc8a28d",
-    "text": "Czuję się komfortowo w towarzystwie ludzi",
+    "text": "Czuję się komfortowo otoczony ludźmi",
     "keyed": "plus",
     "domain": "E",
     "facet": 1
@@ -267,14 +267,14 @@
   },
   {
     "id": "5a5fa975-d024-4ac8-8845-2823f957c21b",
-    "text": "Oszukuję by wyjść na prowadzenie",
+    "text": "Oszukuję, by zyskać przewagę",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
   },
   {
     "id": "adf33f9f-45bd-43e3-af25-4c491176d97f",
-    "text": "Zapominam odkładać rzeczy z powrotem na miejsce",
+    "text": "Zapominam odłożyć rzeczy z powrotem na miejsce",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
@@ -288,7 +288,7 @@
   },
   {
     "id": "0b38e3d3-c15c-454c-b034-f4eb7ae1580a",
-    "text": "Próbuję prowadzić innych",
+    "text": "Próbuję przewodzić innymi",
     "keyed": "plus",
     "domain": "E",
     "facet": 3
@@ -302,7 +302,7 @@
   },
   {
     "id": "ada867af-4db1-4e3d-a604-2b695c1806e5",
-    "text": "Przejmuję się innymi",
+    "text": "Troszczę się o innych",
     "keyed": "plus",
     "domain": "A",
     "facet": 3
@@ -323,7 +323,7 @@
   },
   {
     "id": "d07b6c67-0d02-4948-a997-bb84ac234cd8",
-    "text": "Jestem zawsze w ruchu",
+    "text": "Jestem ciągle w ruchu",
     "keyed": "plus",
     "domain": "E",
     "facet": 4
@@ -344,21 +344,21 @@
   },
   {
     "id": "f12c3d9d-1d12-4aa6-ad2e-009cd0651cbb",
-    "text": "Robię więcej, niż się ode mnie oczekuje",
+    "text": "Robię więcej niż się ode mnie oczekuje",
     "keyed": "plus",
     "domain": "C",
     "facet": 4
   },
   {
     "id": "9891b7ba-a494-4307-aafe-301d8db506c6",
-    "text": "Rzadko bywam pobłażliwy",
+    "text": "Rzadko sobie dogadzam",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
   },
   {
     "id": "f1675af6-88bf-4376-a946-0281e762b39c",
-    "text": "Szukam przygód",
+    "text": "Poszukuję przygód",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -379,7 +379,7 @@
   },
   {
     "id": "9d3cb5c7-955c-43a4-b6c7-b07ed01dcbd9",
-    "text": "Trzymam się planu",
+    "text": "Urzeczywistniam swoje plany",
     "keyed": "plus",
     "domain": "C",
     "facet": 5
@@ -554,7 +554,7 @@
   },
   {
     "id": "a9c97d6b-6721-4150-8d84-64ef3082f164",
-    "text": "Robię tylko tyle, ile potrzeba",
+    "text": "Robię tylko tyle, ile potrzeba ",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
@@ -568,14 +568,14 @@
   },
   {
     "id": "7dd6cf2d-5c14-48c2-8ae5-633a7a596c71",
-    "text": "Lubię być lekkomyślny",
+    "text": "Odczuwam radość z bycia lekkomyślnym",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
   },
   {
     "id": "fecc35f7-681e-4889-a404-4a973a3dfef0",
-    "text": "Miewam problem ze zrozumieniem abstrakcyjnych pomysłów",
+    "text": "Mam trudność ze zrozumieniem abstrakcyjnych pomysłów",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
@@ -610,21 +610,21 @@
   },
   {
     "id": "96ba77b2-1a44-4dfd-95f9-ae4d1f714460",
-    "text": "Raczej głosuję na konserwatywnych kandydatów politycznych",
+    "text": "Głosuję na konserwatywnych kandydatów politycznych",
     "keyed": "minus",
     "domain": "O",
     "facet": 6
   },
   {
     "id": "77f54ab4-0fba-4efb-8700-066c7490eb87",
-    "text": "Nie interesują mnie problemy innych",
+    "text": "Nie jestem zainteresowany problemami innych",
     "keyed": "minus",
     "domain": "A",
     "facet": 6
   },
   {
     "id": "a354cf7c-8d11-46ac-acc5-da90d2048637",
-    "text": "Za bardzo się spieszę ",
+    "text": "Za bardzo się spieszę",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -736,14 +736,14 @@
   },
   {
     "id": "7317848c-3e1b-422f-bb16-02efc504f677",
-    "text": "Nie przejmuję się trudnymi społecznymi sytuacjami",
+    "text": "Nie przejmuję się trudnymi sytuacjami społecznymi",
     "keyed": "minus",
     "domain": "N",
     "facet": 4
   },
   {
     "id": "7d93e1ca-46e8-4a30-9623-42a80c9b420c",
-    "text": "Lubię podejście na spokojnie ",
+    "text": "Lubię podejście na spokojnie",
     "keyed": "minus",
     "domain": "E",
     "facet": 4
@@ -757,21 +757,21 @@
   },
   {
     "id": "17910a55-a64a-4ed0-8b46-293e2fa2fe03",
-    "text": "Odpłacam się innym",
+    "text": "Mszczę się na innych",
     "keyed": "minus",
     "domain": "A",
     "facet": 4
   },
   {
     "id": "3890bb43-2695-4b8d-b289-ee10d11cc884",
-    "text": "Poświęcam mało czasu i starań mojej pracy",
+    "text": "Wkładam mało czasu i wysiłku w swoją pracę",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
   },
   {
     "id": "49a85680-53aa-4208-86b5-dccc7a6f8e37",
-    "text": "Jestem w stanie kontrolować swoje zachcianki",
+    "text": "Umiem kontrolować moje zachcianki",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
@@ -785,7 +785,7 @@
   },
   {
     "id": "b86de003-c3c4-4cc8-9385-5ac8a0142c34",
-    "text": "Nie jestestem zainteresowany teoretyczną dyskusją",
+    "text": "Nie jestem zainteresowany teoretyczną dyskusją",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
@@ -799,14 +799,14 @@
   },
   {
     "id": "51403620-968c-42fa-a772-65ba5ad8396f",
-    "text": "Z trudnością zaczynam zadania",
+    "text": "Mam trudność z zaczynaniem zadań",
     "keyed": "minus",
     "domain": "C",
     "facet": 5
   },
   {
     "id": "88a3c2fe-3aa4-4f46-9322-da656332268a",
-    "text": "Pod presją pozostaję spokojny",
+    "text": "Pomimo presji pozostaję spokojny",
     "keyed": "minus",
     "domain": "N",
     "facet": 6
@@ -827,7 +827,7 @@
   },
   {
     "id": "48bee420-60c0-45cd-be43-3893dbc1969a",
-    "text": "Próbuję nie myśleć o potrzebujących",
+    "text": "Nie myślę o potrzebujących",
     "keyed": "minus",
     "domain": "A",
     "facet": 6
