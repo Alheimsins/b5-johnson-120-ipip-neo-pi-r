@@ -53,7 +53,7 @@
     "coveralls": "3.1.0",
     "husky": "4.3.0",
     "nyc": "15.1.0",
-    "standard": "14.3.4"
+    "standard": "15.0.0"
   },
   "dependencies": {
     "knuth-shuffle": "1.0.8"
