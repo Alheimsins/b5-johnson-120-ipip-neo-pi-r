@@ -100,6 +100,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | ar   | Arabic    | Rayan Khan |
 | he   | Hebew     | Ben Perry |
 | pl   | Polish    | Maryla Królikowska |
+| ko   | Korean    | [TimeTREE](https://github.com/TimeTREE98) |
 
 
 ## Help wanted
