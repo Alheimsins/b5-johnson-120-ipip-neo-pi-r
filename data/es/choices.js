@@ -1,12 +1,12 @@
 module.exports = {
   plus: [
     {
-      text: 'Muy Impreciso',
+      text: 'Muy en desacuerdo',
       score: 1,
       color: 1
     },
     {
-      text: 'Moderadamente Impreciso',
+      text: 'Moderadamente en desacuerdo',
       score: 2,
       color: 2
     },
@@ -28,12 +28,12 @@ module.exports = {
   ],
   minus: [
     {
-      text: 'Muy Impreciso',
+      text: 'Muy en desacuerdo',
       score: 5,
       color: 1
     },
     {
-      text: 'Moderadamente Impreciso',
+      text: 'Moderadamente en desacuerdo',
       score: 4,
       color: 2
     },
