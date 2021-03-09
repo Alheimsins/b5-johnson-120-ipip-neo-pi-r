@@ -4,7 +4,7 @@
 
 # b5-johnson-120-ipip-neo-pi-r
 
-Module for returning Big Five [Johnson 120 IPIP-NEO-PI-R](http://ipip.ori.org/30FacetNEO-PI-RItems.htm) items
+Module for returning Big Five [Johnson 120 IPIP-NEO-PI-R](https://ipip.ori.org/newNEOFacetsKey.htm) items in english and [many other languages](https://ipip.ori.org/newItemTranslations.htm)
 
 ## Installation
 
