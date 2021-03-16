@@ -101,6 +101,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | he   | Hebew     | Ben Perry |
 | pl   | Polish    | Maryla Królikowska |
 | ko   | Korean    | [TimeTREE](https://github.com/TimeTREE98) |
+| ro   | Romanian  | [Cătălin Topală](https://github.com/catalintopala)
 
 
 ## Help wanted
