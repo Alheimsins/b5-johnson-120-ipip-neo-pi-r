@@ -108,7 +108,7 @@ returns an [array with questions and choices](examples/items-en.json)
 
 If you want to help by translating the items to other languages there are two ways to do it.
 
-### Tranlate on GitHub
+### Translate on GitHub
 - clone the repo
 - find a language you know in [data](data)
 - duplicate the folder and rename it to the language you will translate
