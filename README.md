@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/Alheimsins/b5-johnson-120-ipip-neo-pi-r.svg?branch=master)](https://travis-ci.org/Alheimsins/b5-johnson-120-ipip-neo-pi-r)
-[![Coverage Status](https://coveralls.io/repos/Alheimsins/b5-johnson-120-ipip-neo-pi-r/badge.svg?branch=master&service=github)](https://coveralls.io/github/Alheimsins/b5-johnson-120-ipip-neo-pi-r?branch=master)
+[![Build Status](https://travis-ci.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r.svg?branch=main)](https://travis-ci.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r)
+[![Coverage Status](https://coveralls.io/repos/Alheimsins/b5-johnson-120-ipip-neo-pi-r/badge.svg?branch=main&service=github)](https://coveralls.io/github/Alheimsins/b5-johnson-120-ipip-neo-pi-r?branch=main)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # b5-johnson-120-ipip-neo-pi-r
