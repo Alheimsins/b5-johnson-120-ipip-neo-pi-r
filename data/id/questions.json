@@ -113,7 +113,7 @@
   },
   {
     "id": "48a761ef-438e-409b-ae59-ea2ce8f84414",
-    "text": "Saya selalu sibuk",
+    "text": "Selalu sibuk",
     "keyed": "plus",
     "domain": "E",
     "facet": 4
@@ -169,7 +169,7 @@
   },
   {
     "id": "f6076eea-56ae-4b46-97f1-5f94a7676c96",
-    "text": "Saya selalu merasa siap",
+    "text": "Selalu merasa siap",
     "keyed": "plus",
     "domain": "C",
     "facet": 5
@@ -302,7 +302,7 @@
   },
   {
     "id": "ada867af-4db1-4e3d-a604-2b695c1806e5",
-    "text": "Saya mengkhawatirkan orang lain",
+    "text": "Mengkhawatirkan orang lain",
     "keyed": "plus",
     "domain": "A",
     "facet": 3
@@ -316,14 +316,14 @@
   },
   {
     "id": "acd8fadc-5399-4a67-b5ff-9d1ada049c01",
-    "text": "Saya takut menarik perhatian ke diri sendiri",
+    "text": "Takut menarik perhatian ke diri sendiri",
     "keyed": "plus",
     "domain": "N",
     "facet": 4
   },
   {
     "id": "d07b6c67-0d02-4948-a997-bb84ac234cd8",
-    "text": "Saya selalu berpergian",
+    "text": "Selalu berpergian",
     "keyed": "plus",
     "domain": "E",
     "facet": 4
@@ -421,7 +421,7 @@
   },
   {
     "id": "4d81238b-5407-47d4-88e5-dc0e38aa14f5",
-    "text": "Saya takut pada banyak hal",
+    "text": "Takut pada banyak hal",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
@@ -456,7 +456,7 @@
   },
   {
     "id": "da8e6ed1-2296-4c58-8fdb-66f2f591989b",
-    "text": "Saya kehilangan kesabaran",
+    "text": "Kehilangan kesabaran",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
@@ -491,7 +491,7 @@
   },
   {
     "id": "743d8973-1de1-4485-91b4-8a5cf63e7d44",
-    "text": "Saya sering tenggelam dalam kesedihan",
+    "text": "Sering tenggelam dalam kesedihan",
     "keyed": "plus",
     "domain": "N",
     "facet": 3
@@ -512,7 +512,7 @@
   },
   {
     "id": "cd54bd76-ca9c-4030-b325-bb8d896bcb3f",
-    "text": "Saya masa bodoh dengan perasaan orang lain",
+    "text": "Masa bodoh dengan perasaan orang lain",
     "keyed": "minus",
     "domain": "A",
     "facet": 3
@@ -533,7 +533,7 @@
   },
   {
     "id": "b2a077d5-1fe0-4b06-ab63-35455e001e54",
-    "text": "Saya melakukan banyak hal di waktu luang",
+    "text": "Melakukan banyak hal di waktu luang",
     "keyed": "plus",
     "domain": "E",
     "facet": 4
@@ -617,7 +617,7 @@
   },
   {
     "id": "77f54ab4-0fba-4efb-8700-066c7490eb87",
-    "text": "Saya tidak tertarik dengan masalah orang lain",
+    "text": "Tidak tertarik dengan masalah orang lain",
     "keyed": "minus",
     "domain": "A",
     "facet": 6
@@ -666,7 +666,7 @@
   },
   {
     "id": "d32bd062-4eb2-401b-99b2-e7afea39ca9b",
-    "text": "Saya tidak mudah terganggu",
+    "text": "Tidak mudah terganggu",
     "keyed": "minus",
     "domain": "N",
     "facet": 2
@@ -736,7 +736,7 @@
   },
   {
     "id": "7317848c-3e1b-422f-bb16-02efc504f677",
-    "text": "Saya tidak terganggu oleh situasi sosial yang menyusahkan",
+    "text": "Tidak terganggu oleh situasi sosial yang menyusahkan",
     "keyed": "minus",
     "domain": "N",
     "facet": 4
@@ -750,7 +750,7 @@
   },
   {
     "id": "a7f43928-8982-4ed5-8656-7a80346fe979",
-    "text": "Saya terikat dengan cara pandang konvensional",
+    "text": "Terikat dengan cara pandang konvensional",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
@@ -771,7 +771,7 @@
   },
   {
     "id": "49a85680-53aa-4208-86b5-dccc7a6f8e37",
-    "text": "Saya mampu mengendalikan hasrat",
+    "text": "Mampu mengendalikan hasrat",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
@@ -785,7 +785,7 @@
   },
   {
     "id": "b86de003-c3c4-4cc8-9385-5ac8a0142c34",
-    "text": "Saya tidak tertarik dengan diskusi teoretis",
+    "text": "Tidak tertarik dengan diskusi teoretis",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
