@@ -32,7 +32,8 @@
     "coverage": "nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
-    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install",
+    "prepare": "husky install"
   },
   "keywords": [
     "bigfive",
@@ -57,10 +58,5 @@
   },
   "dependencies": {
     "knuth-shuffle": "1.0.8"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test"
-    }
   }
 }
