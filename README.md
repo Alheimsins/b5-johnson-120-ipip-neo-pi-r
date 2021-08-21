@@ -82,7 +82,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | is   | Icelandic | Franz Jónas Arnar Arnarson and [Sigurður Kári Árnason](https://github.com/sigurdurkari) |
 | it   | Italian   | [Lorenzo Carducci](https://github.com/riourbana) |
 | nl   | Dutch     | Eus van Somerenk, Kim Dekker and Tessa Blanken |
-| se   | Swedish   | Martin Bäckström |
+| se   | Swedish   | Martin Bäckström / [SwedishBarbarossa](https://github.com/SwedishBarbarossa) |
 | hr   | Croatian  | Željko Jerneić |
 | fr   | French    | Mathew Gravel |
 | et   | Estonian  | René Mõttus, Helle Pullmann, Jüri Allik, Liina Haring, Kenn Konstabel, and Anu Realo |
