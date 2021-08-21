@@ -22,14 +22,14 @@
   },
   {
     "id": "ce2fbbf8-7a97-4199-bda5-117e4ecdf3b6",
-    "text": "Litar på vad folk säger",
+    "text": "Litar på andra",
     "keyed": "plus",
     "domain": "A",
     "facet": 1
   },
   {
     "id": "c7f53c3c-2e77-432f-bb71-7470b67d3aa9",
-    "text": "Fullföljer mina uppgifter framgångsrikt",
+    "text": "Slutför mina uppgifter",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
@@ -50,14 +50,14 @@
   },
   {
     "id": "58d571e5-d725-4cf8-a438-32c16ee28eb6",
-    "text": "Tror på betydelsen av konst",
+    "text": "Tycker att konst är viktigt",
     "keyed": "plus",
     "domain": "O",
     "facet": 2
   },
   {
     "id": "0cf79e27-e702-45c2-9471-04ac96b58e0e",
-    "text": "Använder andra för mina egna behov",
+    "text": "Använder andra själviskt för att nå mina mål",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
@@ -99,7 +99,7 @@
   },
   {
     "id": "73d84e5d-cbf5-47f0-b8cb-4d2159a52e32",
-    "text": "Håller min löften",
+    "text": "Håller mina löften",
     "keyed": "plus",
     "domain": "C",
     "facet": 3
@@ -141,7 +141,7 @@
   },
   {
     "id": "481efd08-c810-43b1-a952-f8ac9052f96b",
-    "text": "Går ut och festar",
+    "text": "Gör (eller konsumerar) för mycket av saker jag inte borde",
     "keyed": "plus",
     "domain": "N",
     "facet": 5
@@ -155,7 +155,7 @@
   },
   {
     "id": "e1e804c7-4a1d-498f-8610-f95147af9d1d",
-    "text": "Älskar att läsa tankeväckande skrifter",
+    "text": "Älskar att läsa utmanande skrifter",
     "keyed": "plus",
     "domain": "O",
     "facet": 5
@@ -204,28 +204,28 @@
   },
   {
     "id": "bd9eec0a-b68b-472c-8803-7db29c308cdb",
-    "text": "Kastar mig över saker utan att tänka efter",
+    "text": "Åtar mig saker utan att tänka efter",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
   },
   {
     "id": "7f92ab2c-265c-4b84-8c74-09f9bb9d41a7",
-    "text": "Fruktar det värsta",
+    "text": "Väntar mig att saker slutar illa",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
   },
   {
     "id": "af55f014-788c-4b6e-92c4-b2b59dc8a28d",
-    "text": "Trivs med människor omkring mig",
+    "text": "Trivs när det finns människor omkring mig",
     "keyed": "plus",
     "domain": "E",
     "facet": 1
   },
   {
     "id": "08ff6dca-02a5-4aeb-aaa4-2ecf2526f143",
-    "text": "Uppskattar vild fantasiflykt",
+    "text": "Gillar att fantisera vilt",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -239,7 +239,7 @@
   },
   {
     "id": "f110fc66-2e9e-413c-920b-19f05e63d7ac",
-    "text": "Är bäst på det jag gör",
+    "text": "Är mycket bra på det jag gör",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
@@ -253,28 +253,28 @@
   },
   {
     "id": "28ab59a0-e7cd-4fce-94e3-bba2ecc023b6",
-    "text": "Pratar med en massa olika människor på fester",
+    "text": "Pratar med många olika på fester",
     "keyed": "plus",
     "domain": "E",
     "facet": 2
   },
   {
     "id": "b5919f2f-cded-4745-a9ce-c02703cee807",
-    "text": "Ser skönhet i sådant andra inte märker",
+    "text": "Ser skönhet i saker de flesta inte lägger märke till",
     "keyed": "plus",
     "domain": "O",
     "facet": 2
   },
   {
     "id": "5a5fa975-d024-4ac8-8845-2823f957c21b",
-    "text": "Fuskar för att bli bäst",
+    "text": "Är oärlig för att ta mig framåt och uppåt",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
   },
   {
     "id": "adf33f9f-45bd-43e3-af25-4c491176d97f",
-    "text": "Glömmer ofta att lägga tillbaka saker på sin plats",
+    "text": "Glömmer ofta att lägga tillbaka saker på sin rätta plats",
     "keyed": "minus",
     "domain": "C",
     "facet": 2
@@ -302,7 +302,7 @@
   },
   {
     "id": "ada867af-4db1-4e3d-a604-2b695c1806e5",
-    "text": "Är bekymrad över andra",
+    "text": "Bryr mig om andra",
     "keyed": "plus",
     "domain": "A",
     "facet": 3
@@ -316,14 +316,14 @@
   },
   {
     "id": "acd8fadc-5399-4a67-b5ff-9d1ada049c01",
-    "text": "Är rädd för att dra uppmärksamhet mot mig själv",
+    "text": "Är rädd för att dra uppmärksamhet mot mig",
     "keyed": "plus",
     "domain": "N",
     "facet": 4
   },
   {
     "id": "d07b6c67-0d02-4948-a997-bb84ac234cd8",
-    "text": "Är alltid på gång",
+    "text": "Har alltid något på gång",
     "keyed": "plus",
     "domain": "E",
     "facet": 4
@@ -337,7 +337,7 @@
   },
   {
     "id": "d9a9a180-29c9-4ec5-8621-2256d411def7",
-    "text": "Skriker/skämtar på människor",
+    "text": "Gapar/skriker på andra",
     "keyed": "minus",
     "domain": "A",
     "facet": 4
@@ -351,14 +351,14 @@
   },
   {
     "id": "9891b7ba-a494-4307-aafe-301d8db506c6",
-    "text": "Ger sällan ett fritt utlopp för mina behov",
+    "text": "Ger sällan oaktat utlopp för mina begär",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
   },
   {
     "id": "f1675af6-88bf-4376-a946-0281e762b39c",
-    "text": "Söker äventyret",
+    "text": "Söker äventyr",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -386,35 +386,35 @@
   },
   {
     "id": "13c58810-3864-42ba-aa87-d4166f858756",
-    "text": "Blir överväldigad av händelser",
+    "text": "Blir överväldigad av större händelser",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
   },
   {
     "id": "961376e0-16a1-4c14-b059-789e63d11b63",
-    "text": "Gör en massa roliga saker",
+    "text": "Har roligt ofta",
     "keyed": "plus",
     "domain": "E",
     "facet": 6
   },
   {
     "id": "f08e1b27-3673-4898-9cae-896482d0d9f9",
-    "text": "Tror inte att det finns något som är absolut rätt och fel",
+    "text": "Tror inte att saker eller handlingar enbart är rätt eller fel",
     "keyed": "plus",
     "domain": "O",
     "facet": 6
   },
   {
     "id": "c2038c12-7a37-47a8-9983-831bd6692aab",
-    "text": "Känner sympati med de som har det sämre än jag själv",
+    "text": "Känner sympati med de som har det sämre än jag",
     "keyed": "plus",
     "domain": "A",
     "facet": 6
   },
   {
     "id": "956f3e17-ff17-4af5-a52f-9222b8968106",
-    "text": "Tar överilade beslut",
+    "text": "Tar förhastade beslut",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -428,7 +428,7 @@
   },
   {
     "id": "9f9166f0-fa94-4c14-a91d-3eecd8395794",
-    "text": "Undviker kontakten med andra",
+    "text": "Undviker kontakter med andra",
     "keyed": "minus",
     "domain": "E",
     "facet": 1
@@ -449,7 +449,7 @@
   },
   {
     "id": "02ee1930-36a7-4caa-b10c-c93efb682a44",
-    "text": "Handskas smidigt med uppgifter",
+    "text": "Hanterar uppgifter utan besvär",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
@@ -477,7 +477,7 @@
   },
   {
     "id": "982e83c2-d34e-48da-9c71-78494ab05c85",
-    "text": "Drar nytta (utnyttja) av andra",
+    "text": "Utnyttjar andra",
     "keyed": "minus",
     "domain": "A",
     "facet": 2
@@ -491,7 +491,7 @@
   },
   {
     "id": "743d8973-1de1-4485-91b4-8a5cf63e7d44",
-    "text": "Är ofta nere (deppig)",
+    "text": "Är ofta deppig",
     "keyed": "plus",
     "domain": "N",
     "facet": 3
@@ -554,7 +554,7 @@
   },
   {
     "id": "a9c97d6b-6721-4150-8d84-64ef3082f164",
-    "text": "Gör bara så mycket som jag måste",
+    "text": "Arbetar bara tillräckligt för att klara mig",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
@@ -645,7 +645,7 @@
   },
   {
     "id": "935a7413-abac-4f54-9169-d1fbd39da752",
-    "text": "Tycker om att förlora mig i tankar",
+    "text": "Tycker om att försvinna i tankar",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -701,7 +701,7 @@
   },
   {
     "id": "f40e421f-6c24-4be2-bd9f-28d33358d8c6",
-    "text": "Känner mig trygg med mig själv",
+    "text": "Känner mig bekväm i mig själv",
     "keyed": "minus",
     "domain": "N",
     "facet": 3
@@ -750,7 +750,7 @@
   },
   {
     "id": "a7f43928-8982-4ed5-8656-7a80346fe979",
-    "text": "Är upphängd på konventionella metoder",
+    "text": "Håller fast vid konventionella tillvägagångssätt",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
@@ -764,14 +764,14 @@
   },
   {
     "id": "3890bb43-2695-4b8d-b289-ee10d11cc884",
-    "text": "Lägger lite tid och kraft i mitt arbete",
+    "text": "Lägger lite tid och energi på mitt arbete",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
   },
   {
     "id": "49a85680-53aa-4208-86b5-dccc7a6f8e37",
-    "text": "Kan hålla mina laster i styr",
+    "text": "Kan hålla mina begär i styr",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
@@ -792,7 +792,7 @@
   },
   {
     "id": "80c1d149-7050-481a-9953-aefb441642e7",
-    "text": "Skryter om mina fördelar",
+    "text": "Skryter om mina bra egenskaper",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -806,7 +806,7 @@
   },
   {
     "id": "88a3c2fe-3aa4-4f46-9322-da656332268a",
-    "text": "Håller mig lugn under stress och tidspress",
+    "text": "Håller mig lugn även när mycket står på spel",
     "keyed": "minus",
     "domain": "N",
     "facet": 6
@@ -820,7 +820,7 @@
   },
   {
     "id": "580b08d1-3c94-46e9-9d07-d6d80c698127",
-    "text": "Tycker att vi skall vara tuffa mot brottslighet  ",
+    "text": "Tycker att straffen för brottslighet ska vara hårda",
     "keyed": "minus",
     "domain": "O",
     "facet": 6
@@ -834,7 +834,7 @@
   },
   {
     "id": "ea3327ea-3529-4be4-8e2d-2174731ae4d7",
-    "text": "Handlar utan att tänka",
+    "text": "Agerar utan att tänka",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
