@@ -1,114 +1,142 @@
 [
   {
     "id": "en",
-    "text": "English"
+    "text": "English",
+    "pronoun": "I"
   },
   {
     "id": "zh-cn",
-    "text": "Chinese (PRC)"
+    "text": "Chinese (PRC)",
+    "pronoun": "我"
   },
   {
     "id": "hi",
-    "text": "Hindi"
+    "text": "Hindi",
+    "pronoun": "मैं"
   },
   {
     "id": "es",
-    "text": "Spanish"
+    "text": "Spanish",
+    "pronoun": "yo"
   },
   {
     "id": "fr",
-    "text": "French"
+    "text": "French",
+    "pronoun": "je"
   },
   {
     "id": "ru",
-    "text": "Russian"
+    "text": "Russian",
+    "pronoun": "я"
   },
   {
     "id": "id",
-    "text": "Indonesian"
+    "text": "Indonesian",
+    "pronoun": "saya"
   },
   {
     "id": "ur",
-    "text": "Urdu"
+    "text": "Urdu",
+    "pronoun": "میں"
   },
   {
     "id": "de",
-    "text": "Deutsch"
+    "text": "Deutsch",
+    "pronoun": "ich"
   },
   {
     "id": "ja",
-    "text": "Japanese"
+    "text": "Japanese",
+    "pronoun": "私"
   },
   {
     "id": "it",
-    "text": "Italian"
+    "text": "Italian",
+    "pronoun": "io"
   },
   {
     "id": "th",
-    "text": "Thai"
+    "text": "Thai",
+    "pronoun": "ฉัน"
   },
   {
     "id": "uk",
-    "text": "Ukrainian"
+    "text": "Ukrainian",
+    "pronoun": "Я"
   },
   {
     "id": "da",
-    "text": "Danish"
+    "text": "Danish",
+    "pronoun": "jeg"
   },
   {
     "id": "no",
-    "text": "Norwegian"
+    "text": "Norwegian",
+    "pronoun": "jeg"
   },
   {
     "id": "is",
-    "text": "Icelandic"
+    "text": "Icelandic",
+    "pronoun": "Ég"
   },
   {
     "id": "fi",
-    "text": "Finnish"
+    "text": "Finnish",
+    "pronoun": "minä"
   },
   {
     "id": "nl",
-    "text": "Dutch"
+    "text": "Dutch",
+    "pronoun": "ik"
   },
   {
     "id": "ro",
-    "text": "Romanian"
+    "text": "Romanian",
+    "pronoun": "eu"
   },
   {
     "id": "sq",
-    "text": "Albanian"
+    "text": "Albanian",
+    "pronoun": "Unë"
   },
   {
     "id": "sv",
-    "text": "Swedish"
+    "text": "Swedish",
+    "pronoun": "Jag"
   },
   {
     "id": "hr",
-    "text": "Croatian"
+    "text": "Croatian",
+    "pronoun": "Ja"
   },
   {
     "id": "et",
-    "text": "Estonian"
+    "text": "Estonian",
+    "pronoun": "Mina"
   },
   {
     "id": "pt-br",
-    "text": "Brazilian Portuguese"
+    "text": "Brazilian Portuguese",
+    "pronoun": "eu"
   },
   {
     "id": "ar",
-    "text": "Arabic"
+    "text": "Arabic",
+    "pronoun": "أنا"
   },
   {
     "id": "he",
-    "text": "Hebrew"
+    "text": "Hebrew",
+    "pronoun": "אני"
   },
   {
     "id": "pl",
-    "text": "Polish"
+    "text": "Polish",
+    "pronoun": "jestem"
   },
   {
     "id": "ko",
-    "text": "Korean"
+    "text": "Korean",
+    "pronoun": "나는"
   }
 ]
