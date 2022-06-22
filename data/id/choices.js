@@ -5,7 +5,7 @@ module.exports = {
     color: 1
   },
   {
-    text: 'Sedikit Tidak Akurat',
+    text: 'Cukup Tidak Akurat',
     score: 2,
     color: 2
   },
@@ -15,7 +15,7 @@ module.exports = {
     color: 3
   },
   {
-    text: 'Sedikit Akurat',
+    text: 'Cukup Akurat',
     score: 4,
     color: 4
   },
@@ -31,7 +31,7 @@ module.exports = {
     color: 1
   },
   {
-    text: 'Sedikit Tidak Akurat',
+    text: 'Cukup Tidak Akurat',
     score: 4,
     color: 2
   },
@@ -41,7 +41,7 @@ module.exports = {
     color: 3
   },
   {
-    text: 'Sedikit Akurat',
+    text: 'Cukup Akurat',
     score: 2,
     color: 4
   },
