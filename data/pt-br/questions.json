@@ -15,7 +15,7 @@
   },
   {
     "id": "888dd864-7449-4e96-8d5c-7a439603ea91",
-    "text": "Tenho imaginação vívida",
+    "text": "Tenho uma imaginação fértil",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -29,21 +29,21 @@
   },
   {
     "id": "c7f53c3c-2e77-432f-bb71-7470b67d3aa9",
-    "text": "Completo as tarefas que me são passadas",
+    "text": "Concluo as tarefas com sucesso",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
   },
   {
     "id": "48ad12ce-470e-4339-90ac-ea8c43a0103e",
-    "text": "Me irrito facilmente",
+    "text": "Fico com raiva facilmente",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
   },
   {
     "id": "458f3957-2359-4077-ade1-34525d633063",
-    "text": "Amo festas grandes",
+    "text": "Amo grandes festas",
     "keyed": "plus",
     "domain": "E",
     "facet": 2
@@ -64,28 +64,28 @@
   },
   {
     "id": "cda1ca17-b599-4561-a6cd-ff9d36062d27",
-    "text": "Gosta de organizar as coisas",
+    "text": "Gosto de organizar as coisas",
     "keyed": "plus",
     "domain": "C",
     "facet": 2
   },
   {
     "id": "5e8550d7-b8ef-4905-950a-f81d735d39e2",
-    "text": "Costumo me sentir desanimado(a)",
+    "text": "Frequentemente me sinto triste",
     "keyed": "plus",
     "domain": "N",
     "facet": 3
   },
   {
     "id": "8af754f2-68e9-48f3-8c5d-2e6633d4472c",
-    "text": "Assumo a liderança",
+    "text": "Assumo a liderança das coisas",
     "keyed": "plus",
     "domain": "E",
     "facet": 3
   },
   {
     "id": "0727def6-3d18-4221-bf38-86b58f9f3eed",
-    "text": "Expresso minhas emoções intensamente",
+    "text": "Experimento minhas emoções intensamente",
     "keyed": "plus",
     "domain": "O",
     "facet": 3
@@ -127,28 +127,28 @@
   },
   {
     "id": "e2028ad3-b128-4f76-be57-398bfe2aff22",
-    "text": "Adoro uma boa luta",
+    "text": "Amo uma boa briga",
     "keyed": "minus",
     "domain": "A",
     "facet": 4
   },
   {
     "id": "b7fc949b-02b6-4cb9-a3e2-dbb3d824b55f",
-    "text": "Trabalho duro",
+    "text": "Trabalho muito",
     "keyed": "plus",
     "domain": "C",
     "facet": 4
   },
   {
     "id": "481efd08-c810-43b1-a952-f8ac9052f96b",
-    "text": "Cometo exageros",
+    "text": "Adoro ir em farras",
     "keyed": "plus",
     "domain": "N",
     "facet": 5
   },
   {
     "id": "987efee2-899f-4a65-b9b5-1589ef0460d7",
-    "text": "Busco adrenalina",
+    "text": "Busco sempre emoção (adrenalina)",
     "keyed": "plus",
     "domain": "E",
     "facet": 5
@@ -169,7 +169,7 @@
   },
   {
     "id": "f6076eea-56ae-4b46-97f1-5f94a7676c96",
-    "text": "Estou sempre preparado",
+    "text": "Estou sempre preparado(a)",
     "keyed": "plus",
     "domain": "C",
     "facet": 5
@@ -190,7 +190,7 @@
   },
   {
     "id": "79186f48-e7fa-4df4-b74b-b0627ee244e1",
-    "text": "Tendo a votar em cadidatos progressistas",
+    "text": "Costumo votar em candidatos políticos liberais (progressistas)",
     "keyed": "plus",
     "domain": "O",
     "facet": 6
@@ -204,7 +204,7 @@
   },
   {
     "id": "bd9eec0a-b68b-472c-8803-7db29c308cdb",
-    "text": "Faço sem pensar",
+    "text": "Mergulho de cabeça nas coisas sem pensar",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
@@ -225,21 +225,21 @@
   },
   {
     "id": "08ff6dca-02a5-4aeb-aaa4-2ecf2526f143",
-    "text": "Adoro histórias fantásticas",
+    "text": "Adoro histórias fantásticas de fantasia e ficção",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
   },
   {
     "id": "6f66cdc0-9044-457b-b40d-501ecae15ee7",
-    "text": "Acredito que os outros são bem intencionados",
+    "text": "Acredito que os outros têm boas intenções",
     "keyed": "plus",
     "domain": "A",
     "facet": 1
   },
   {
     "id": "f110fc66-2e9e-413c-920b-19f05e63d7ac",
-    "text": "Sou muito bom no que faço(a)",
+    "text": "Sou excelente no que eu faço",
     "keyed": "plus",
     "domain": "C",
     "facet": 1
@@ -260,7 +260,7 @@
   },
   {
     "id": "b5919f2f-cded-4745-a9ce-c02703cee807",
-    "text": "Vejo beleza em coisas que os outros não vêem",
+    "text": "Vejo beleza em coisas que outros podem não notar",
     "keyed": "plus",
     "domain": "O",
     "facet": 2
@@ -330,7 +330,7 @@
   },
   {
     "id": "33b81fd0-7e32-4cd8-a13a-d5f5f754f998",
-    "text": "Prefiro fazer apenas o que sei",
+    "text": "Prefiro lidar com coisas que eu conheça",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
@@ -351,7 +351,7 @@
   },
   {
     "id": "9891b7ba-a494-4307-aafe-301d8db506c6",
-    "text": "Dificilmente exagero",
+    "text": "Raramente me excedo em festas",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
@@ -372,7 +372,7 @@
   },
   {
     "id": "7df44711-4cd4-4b05-8830-73fcc3ebdab5",
-    "text": "Me tenho em grande estima",
+    "text": "Penso muito em mim",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -386,7 +386,7 @@
   },
   {
     "id": "13c58810-3864-42ba-aa87-d4166f858756",
-    "text": "Me sinto sobrecarregado em eventos",
+    "text": "Me sinto sobrecarregado(a) com os eventos",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
@@ -407,7 +407,7 @@
   },
   {
     "id": "c2038c12-7a37-47a8-9983-831bd6692aab",
-    "text": "Sinto pena dos que são piores do que eu",
+    "text": "Sinto simpatia por aqueles que estão em situação pior do que eu",
     "keyed": "plus",
     "domain": "A",
     "facet": 6
@@ -428,21 +428,21 @@
   },
   {
     "id": "9f9166f0-fa94-4c14-a91d-3eecd8395794",
-    "text": "Evito encontrar outras pessoas",
+    "text": "Evito contatos com outras pessoas",
     "keyed": "minus",
     "domain": "E",
     "facet": 1
   },
   {
     "id": "23a1034f-fab7-4887-a66e-5ef4eaafb25e",
-    "text": "Amo ficar no mundo da lua",
+    "text": "Amo ficar sonhando no mundo da lua",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
   },
   {
     "id": "c63e6121-c3ed-40cc-abc2-c1e6ea1e0858",
-    "text": "Confio no que dizem",
+    "text": "Confio no que as pessoas dizem",
     "keyed": "plus",
     "domain": "A",
     "facet": 1
@@ -456,7 +456,7 @@
   },
   {
     "id": "da8e6ed1-2296-4c58-8fdb-66f2f591989b",
-    "text": "Perco a cabeça",
+    "text": "Perco a paciência facilmente",
     "keyed": "plus",
     "domain": "N",
     "facet": 2
@@ -491,21 +491,21 @@
   },
   {
     "id": "743d8973-1de1-4485-91b4-8a5cf63e7d44",
-    "text": "Estou sempre deprimido",
+    "text": "Estou sempre deprimido(a)",
     "keyed": "plus",
     "domain": "N",
     "facet": 3
   },
   {
     "id": "2452f034-8273-4f71-9122-a40f5ead31ba",
-    "text": "Assumo controle das coisas",
+    "text": "Assumo o controle das coisas",
     "keyed": "plus",
     "domain": "E",
     "facet": 3
   },
   {
     "id": "2a300001-6e05-4c79-b8b5-2ccae4c3d463",
-    "text": "Raramente percebo minha própria reação emocional",
+    "text": "Raramente percebo minhas reações emocionais",
     "keyed": "minus",
     "domain": "O",
     "facet": 3
@@ -540,7 +540,7 @@
   },
   {
     "id": "0d2e65ab-95d9-482f-beb4-3239a3a4944a",
-    "text": "Sou avesso a mudanças",
+    "text": "Não gosto de mudanças",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
@@ -554,14 +554,14 @@
   },
   {
     "id": "a9c97d6b-6721-4150-8d84-64ef3082f164",
-    "text": "Faço apenas o necessário",
+    "text": "Eu trabalho apenas o suficiente para sobreviver",
     "keyed": "minus",
     "domain": "C",
     "facet": 4
   },
   {
     "id": "9f2e7f90-0ca5-4ed0-9fe5-e060238a9b5e",
-    "text": "Resisto a tentações facilmente",
+    "text": "Resisto facilmente às tentações",
     "keyed": "minus",
     "domain": "N",
     "facet": 5
@@ -575,14 +575,14 @@
   },
   {
     "id": "fecc35f7-681e-4889-a404-4a973a3dfef0",
-    "text": "Tenho dificuldade com ideias abstratas",
+    "text": "Tenho dificuldade em entender ideias abstratas",
     "keyed": "minus",
     "domain": "O",
     "facet": 5
   },
   {
     "id": "1d686958-6fe7-432f-85e6-186b99e4e232",
-    "text": "Me considero muito bom(boa)",
+    "text": "Tenho uma opinião muito positiva sobre mim mesmo(a)",
     "keyed": "minus",
     "domain": "A",
     "facet": 5
@@ -596,7 +596,7 @@
   },
   {
     "id": "b7e0e393-9b21-4e0d-adf3-8f28fb5b9d87",
-    "text": "Acho que sou incapaz de lidar com as coisas",
+    "text": "Sinto que sou incapaz de lidar com as coisas",
     "keyed": "plus",
     "domain": "N",
     "facet": 6
@@ -610,7 +610,7 @@
   },
   {
     "id": "96ba77b2-1a44-4dfd-95f9-ae4d1f714460",
-    "text": "Tende a votar em políticos conservadores",
+    "text": "Costumo votar em candidatos políticos conservadores",
     "keyed": "minus",
     "domain": "O",
     "facet": 6
@@ -624,14 +624,14 @@
   },
   {
     "id": "a354cf7c-8d11-46ac-acc5-da90d2048637",
-    "text": "Já saio fazendo",
+    "text": "Me apresso nas coisas",
     "keyed": "minus",
     "domain": "C",
     "facet": 6
   },
   {
     "id": "43b03992-3f32-4ed1-a6f8-5d6d3e7ed246",
-    "text": "Me irrito facilmente",
+    "text": "Me estresso facilmente",
     "keyed": "plus",
     "domain": "N",
     "facet": 1
@@ -645,7 +645,7 @@
   },
   {
     "id": "935a7413-abac-4f54-9169-d1fbd39da752",
-    "text": "Me perco nos pensamentos",
+    "text": "Gosto de me perder em pensamentos",
     "keyed": "plus",
     "domain": "O",
     "facet": 1
@@ -666,7 +666,7 @@
   },
   {
     "id": "d32bd062-4eb2-401b-99b2-e7afea39ca9b",
-    "text": "Não sou incomodado facilmente",
+    "text": "Não me incomodo facilmente",
     "keyed": "minus",
     "domain": "N",
     "facet": 2
@@ -701,21 +701,21 @@
   },
   {
     "id": "f40e421f-6c24-4be2-bd9f-28d33358d8c6",
-    "text": "Me sinto confortável comigo",
+    "text": "Me sinto confortável comigo mesmo(a)",
     "keyed": "minus",
     "domain": "N",
     "facet": 3
   },
   {
     "id": "8791f37b-686f-47c3-9db7-74c009951321",
-    "text": "Aguardo outras pessoas tomarem a liderança",
+    "text": "Aguardo outras pessoas tomarem a liderança das coisas",
     "keyed": "minus",
     "domain": "E",
     "facet": 3
   },
   {
     "id": "4fd25155-9cc2-4cd6-8852-3e0ca2d5e95d",
-    "text": "Não entendo pessoas que agem emocionalmente",
+    "text": "Não entendo pessoas que agem emotivamente",
     "keyed": "minus",
     "domain": "O",
     "facet": 3
@@ -736,7 +736,7 @@
   },
   {
     "id": "7317848c-3e1b-422f-bb16-02efc504f677",
-    "text": "Não sou incomodado(a) por situações sociais difíceis",
+    "text": "Não me incomodo com situações sociais difíceis",
     "keyed": "minus",
     "domain": "N",
     "facet": 4
@@ -750,7 +750,7 @@
   },
   {
     "id": "a7f43928-8982-4ed5-8656-7a80346fe979",
-    "text": "Sou tradicional",
+    "text": "Me considero ter costumes tradicionais",
     "keyed": "minus",
     "domain": "O",
     "facet": 4
@@ -806,7 +806,7 @@
   },
   {
     "id": "88a3c2fe-3aa4-4f46-9322-da656332268a",
-    "text": "Fico calmo(a) sob pressão",
+    "text": "Permaneço calmo(a) sob pressão",
     "keyed": "minus",
     "domain": "N",
     "facet": 6

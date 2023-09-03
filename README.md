@@ -88,7 +88,7 @@ returns an [array with questions and choices](examples/items-en.json)
 | de   | German    | Heinz Streib and Manuela Wiedmaier |
 | jp   | Japanese  | Omar Karlin |
 | ur   | Urdru     | Engr. Ahmad Khan |
-| pt-br| Portuguese (brazil) | Marcelo Rigon |
+| pt-br| Portuguese (Brazil) | Grazziano Duarte |
 | ru   | Russian   | [Javid Askerov](https://github.com/askeroff), [Olga V](https://github.com/berrybell) |
 | zh-cn| Simplified Chinese | [Roy Jia](https://github.com/RoyJia) |
 | th   | Thai      | [Maneepailin Sriuthenchai](https://github.com/linsuri) |
