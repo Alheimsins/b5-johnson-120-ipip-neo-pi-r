@@ -1,54 +1,54 @@
 module.exports = {
   plus: [
     {
-      text: 'Very Inaccurate',
+      text: 'まったく当てはまらない',
       score: 1,
       color: 1
     },
     {
-      text: 'Moderately Inaccurate',
+      text: 'あまり当てはまらない',
       score: 2,
       color: 2
     },
     {
-      text: 'Neither Accurate Nor Inaccurate',
+      text: 'どちらとも言えない',
       score: 3,
       color: 3
     },
     {
-      text: 'Moderately Accurate',
+      text: 'やや当てはまる',
       score: 4,
       color: 4
     },
     {
-      text: 'Very Accurate',
+      text: 'とても当てはまる',
       score: 5,
       color: 5
     }
   ],
   minus: [
     {
-      text: 'Very Inaccurate',
+      text: 'まったく当てはまらない',
       score: 5,
       color: 1
     },
     {
-      text: 'Moderately Inaccurate',
+      text: 'あまり当てはまらない',
       score: 4,
       color: 2
     },
     {
-      text: 'Neither Accurate Nor Inaccurate',
+      text: 'どちらとも言えない',
       score: 3,
       color: 3
     },
     {
-      text: 'Moderately Accurate',
+      text: 'やや当てはまる',
       score: 2,
       color: 4
     },
     {
-      text: 'Very Accurate',
+      text: 'とても当てはまる',
       score: 1,
       color: 5
     }
