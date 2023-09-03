@@ -12,7 +12,7 @@ if (dependencies) {
   Object.keys(dependencies)
     .filter(isDropped)
     .forEach(dependency =>
-      test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
+      test(`${dependency} loads ok`, t => t.truthy(import(dependency)))
     )
 }
 
@@ -20,7 +20,7 @@ if (devDependencies) {
   Object.keys(devDependencies)
     .filter(isDropped)
     .forEach(dependency =>
-      test(`${dependency} loads ok`, t => t.truthy(require(dependency)))
+      test(`${dependency} loads ok`, t => t.truthy(import(dependency)))
     )
 }
 

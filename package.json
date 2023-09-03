@@ -1,7 +1,7 @@
 {
   "name": "@alheimsins/b5-johnson-120-ipip-neo-pi-r",
   "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items",
-  "version": "6.0.5",
+  "version": "6.0.6",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -30,7 +30,6 @@
     "test": "standard && npm audit && ava",
     "test-offline": "standard && ava",
     "coverage": "nyc ava",
-    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
     "refresh": "rm -rf node_modules && rm package-lock.json && npm install",
     "prepare": "husky install"
@@ -50,11 +49,10 @@
   },
   "homepage": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r#readme",
   "devDependencies": {
-    "ava": "4.3.3",
-    "coveralls": "3.1.1",
-    "husky": "7.0.4",
+    "ava": "5.3.1",
+    "husky": "8.0.3",
     "nyc": "15.1.0",
-    "standard": "16.0.4"
+    "standard": "17.1.0"
   },
   "dependencies": {
     "knuth-shuffle": "1.0.8"
