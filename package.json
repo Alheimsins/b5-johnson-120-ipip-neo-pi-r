@@ -7,21 +7,11 @@
     "access": "public"
   },
   "author": {
-    "name": "Geir Gåsodden",
-    "email": "geir.gasodden@pythonia.no",
-    "url": "https://github.com/zrrrzzt"
+    "name": "Jonas ",
+    "email": "jonas.enge@gmail.com",
+    "url": "https://github.com/maccyber"
   },
-  "contributors": [
-    {
-      "name": "Jonas Enge",
-      "email": "jonas.enge@gmail.com",
-      "url": "https://github.com/maccyber"
-    }
-  ],
   "main": "index.js",
-  "engines": {
-    "node": ">=12.22.11"
-  },
   "files": [
     "data/",
     "index.js"
