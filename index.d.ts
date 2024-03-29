@@ -4,10 +4,19 @@ export type Language = {
 };
 
 export type Question = {
-  text: string;
+  domain: string;
+  facet: number;
+  id: string;
   keyed: string;
   num: number;
-  choices: string[];
+  text: string;
+  choices: Choice[];
+};
+
+export type Choice = {
+  color: number;
+  score: number;
+  text: string;
 };
 
 export type Item = {
