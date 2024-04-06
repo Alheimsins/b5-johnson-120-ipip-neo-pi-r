@@ -12,9 +12,6 @@
     "url": "https://github.com/maccyber"
   },
   "main": "index.js",
-  "engines": {
-    "node": ">=14"
-  },
   "files": [
     "data/",
     "index.js",
