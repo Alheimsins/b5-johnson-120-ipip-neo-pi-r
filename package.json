@@ -47,8 +47,5 @@
     "husky": "7.0.1",
     "nyc": "15.1.0",
     "standard": "16.0.3"
-  },
-  "dependencies": {
-    "knuth-shuffle": "1.0.8"
   }
 }

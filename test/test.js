@@ -56,23 +56,6 @@ test('it returns sorted inventory items', t =>
   t.truthy(getItems('en', false), 'sorted items ok')
 )
 
-test('it returns random inventory items', t =>
-  t.truthy(getItems('en', true), 'random items ok')
-)
-
-test('random inventory items', t => {
-  const sortedItems = getItems('en', false)
-  const randomItems = getItems('en', true)
-
-  t.notDeepEqual(sortedItems[0], randomItems[0], 'shuffeled ok')
-
-  t.is(sortedItems.length, randomItems.length, 'array sizes ok')
-
-  randomItems.map(randomItem =>
-    t.deepEqual(sortedItems.find(sortedItem => randomItem.id === sortedItem.id), randomItem)
-  )
-})
-
 test('test all languages', t => {
   const { languages } = getInfo()
   languages.map(({ id }) => t.truthy(getItems(id, false), `${id} items ok`))

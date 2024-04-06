@@ -1,4 +1,3 @@
-const { knuthShuffle } = require('knuth-shuffle')
 const languages = require('./data/languages.json')
 
 function languageSort (a, b) {
@@ -13,7 +12,7 @@ function languageSort (a, b) {
 
 languages.sort(languageSort)
 
-module.exports.getItems = (lang = 'en', shuffle = false) => {
+module.exports.getItems = (lang = 'en') => {
   let choices, questions
   try {
     questions = require(`./data/${lang}/questions.json`)
@@ -22,8 +21,7 @@ module.exports.getItems = (lang = 'en', shuffle = false) => {
     throw new Error('Inventory not found. Try another language input.')
   }
 
-  const inventory = shuffle === true ? knuthShuffle(questions) : questions
-  return inventory.map((question, i) => Object.assign(question, { num: ++i, choices: choices[question.keyed] }))
+  return questions.map((question, i) => Object.assign(question, { num: ++i, choices: choices[question.keyed] }))
 }
 
 module.exports.getInfo = () => (
