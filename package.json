@@ -1,7 +1,7 @@
 {
   "name": "@alheimsins/b5-johnson-120-ipip-neo-pi-r",
   "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items",
-  "version": "6.0.13",
+  "version": "6.0.14",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -12,6 +12,9 @@
     "url": "https://github.com/maccyber"
   },
   "main": "index.js",
+  "engines": {
+    "node": ">=14"
+  },
   "files": [
     "data/",
     "index.js",
@@ -40,10 +43,10 @@
   },
   "homepage": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r#readme",
   "devDependencies": {
-    "ava": "5.3.1",
-    "husky": "8.0.3",
+    "ava": "6.1.2",
+    "husky": "7.0.1",
     "nyc": "15.1.0",
-    "standard": "17.1.0"
+    "standard": "16.0.3"
   },
   "dependencies": {
     "knuth-shuffle": "1.0.8"
