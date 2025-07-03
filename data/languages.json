@@ -120,11 +120,11 @@
     "text": "Hungarian"
   },
   {
-    "id": "fa",
-    "text": "Persian"
-  },
-  {
     "id": "ca",
     "text":"Catalan"
+  },
+  {
+    "id": "fa",
+    "text": "Persian"
   }
 ]

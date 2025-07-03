@@ -1,66 +1,56 @@
 module.exports = {
   plus: [
     {
-      // text: 'Very Inaccurate',
-      text: 'کاملا مخالفم',
+      text: 'کاملا اشتباه',
       score: 1,
       color: 1
     },
     {
-      // text: 'Moderately Inaccurate',
-      text: 'مخالفم',
+      text: 'تقریبا اشتباه',
       score: 2,
       color: 2
     },
     {
-      // text: 'Neither Accurate Nor Inaccurate',
-      text: 'مطمئن نیستم',
+      text: 'نه درست نه اشتباه',
       score: 3,
       color: 3
     },
     {
-      // text: 'Moderately Accurate',
-      text: 'موافقم',
+      text: 'تقریبا درست',
       score: 4,
       color: 4
     },
     {
-      // text: 'Very Accurate',
-      text: 'کاملا موافقم',
+      text: 'کاملا درست',
       score: 5,
       color: 5
     }
   ],
   minus: [
     {
-      // text: 'Very Inaccurate',
-      text: 'کاملا مخالفم',
+      text: 'کاملا اشتباه',
       score: 5,
       color: 1
     },
     {
-      // text: 'Moderately Inaccurate',
-      text: 'مخالفم',
+      text: 'تقریبا اشتباه',
       score: 4,
       color: 2
     },
     {
-      // text: 'Neither Accurate Nor Inaccurate',
-      text: 'مطمئن نیستم',
+      text: 'نه درست نه اشتباه',
       score: 3,
       color: 3
     },
     {
-      // text: 'Moderately Accurate',
-      text: 'موافقم',
+      text: 'تقریبا درست',
       score: 2,
       color: 4
     },
     {
-      // text: 'Very Accurate',
-      text: 'کاملا موافقم',
+      text: 'کاملا درست',
       score: 1,
       color: 5
     }
   ]
-}
+};
